@@ -40,16 +40,12 @@ body {
     text-align: right;
 }
 
-.home pre, code {
-	font-family: "DejaVu Sans Mono", Menlo, Consolas, monospace;
-}
-
 .home section {
 	margin-bottom: 40px;
 }
 
 .home section p {
-    width: 50%;
+    width: 80%;
 }
 
 .home  {
@@ -58,7 +54,7 @@ body {
 }
 
 .home table.personal {
-	width: 50%;
+	width: 80%;
 }
 
 .home ul {
@@ -69,23 +65,10 @@ body {
     list-style: disc;
 }
 
-.learning header>h1 {
-	font-size: xx-large;
+.text-right {
+	text-align: right;
 }
 
-.learning section>h1 {
-	font-size: x-large;
+.vertical-align-top {
+	vertical-align: top;
 }
-
-.learning section>h2 {
-	font-size: large;
-}
-
-.learning section>h3 {
-	font-size: medium;
-}
-
-.learning section>h4 {
-	font-size: small;
-}
-
