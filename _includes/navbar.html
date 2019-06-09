@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-lg">
+    <ul class="navbar-nav mr-auto">
+        <li class="nav-item {% if page.url == '/' %}active{% endif %}">
+            <a class="nav-link" href="/">Home</a>
+        </li>
+        {% for page in site.pages %} {% if page.title %}
+        <li class="nav-item">
+            <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        </li>
+        {% endif %} {% endfor %}
+        <li class="nav-item {% if page.url contains '/blog' %}active{% endif %}"><a class="nav-link" href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+    </ul>
+</nav>
