@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Minor E. Gordon, Ph.D.
-email: mail@minorgordon.net
+baseurl: "" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site of Minor E. Gordon, Ph.D.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://minorgordon.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  minorg
+permalink: :year/:month/:day/:title:output_ext
+title: Minor E. Gordon, Ph.D.
+url: "https://minorgordon.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 include: ['_pages']
