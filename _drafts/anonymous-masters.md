@@ -2,7 +2,7 @@
 layout: post
 title:  "Anonymous masters"
 date:   2019-06-09
-categories: wikipedia
+categories: wikipedia reading
 ---
 
 In spare moments I've been reading Wikipedia's pages about [anonymous masters](https://en.wikipedia.org/wiki/List_of_anonymous_masters). I found a few of the pages fascinating:
