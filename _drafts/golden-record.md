@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Golden Record"
-date:   2019-06-09
+date:   2019-05-01
 categories: projects
 ---
 
