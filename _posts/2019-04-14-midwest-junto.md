@@ -2,7 +2,7 @@
 layout: post
 title:  "Midwest Junto for the History of Science"
 date:   2019-04-14
-categories: wikipedia reading
+categories: experiences
 ---
 
 This weekend I went to the meeting of the [Midwest Junto for the History of Science](https://midwestjunto.wordpress.com/) in Kansas City. The history of science and technology is my favorite subject. I've read broadly in it, and I took several classes as an undergraduate, but I'd never been to a conference.
