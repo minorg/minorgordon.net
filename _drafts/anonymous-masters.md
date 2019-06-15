@@ -10,3 +10,5 @@ In spare moments I've been reading Wikipedia's pages about [anonymous masters](h
 * [Master of the Female Half-Lengths](https://en.wikipedia.org/wiki/Master_of_the_Female_Half-Lengths)
 * [Master of Calamarca](https://en.wikipedia.org/wiki/Master_of_Calamarca)
 * [De Onbekende Beeldhouwer](https://en.wikipedia.org/wiki/De_Onbekende_Beeldhouwer)
+* [Master of the Hartford Still-Life](https://en.wikipedia.org/wiki/Master_of_the_Hartford_Still-Life)
+* [Master L. Cz.](https://en.wikipedia.org/wiki/Master_L._Cz.)
