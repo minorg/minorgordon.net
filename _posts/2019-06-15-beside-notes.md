@@ -19,4 +19,4 @@ Most of my personal reading time these days is just before bed. I have a notepad
 * [BBS: The Documentary](http://www.bbsdocumentary.com/)
 * [Mirandola](https://en.wikipedia.org/wiki/Giovanni_Pico_della_Mirandola)
 * [Mike Oldfield](https://en.wikipedia.org/wiki/Mike_Oldfield)
-* [Pindar](https://en.wikipedia.org/wiki/Pindar)'s Pythian Odes. I tried a poorly-written biography of Nietzsche, who was a professor of philologist. It said his favorite quote was Pindar: "Become what you are, having learned what that is."
+* [Pindar](https://en.wikipedia.org/wiki/Pindar)'s Pythian Odes. I tried a poorly-written biography of Nietzsche, who was a professor of philology. It said his favorite quote was Pindar: "Become what you are, having learned what that is."
