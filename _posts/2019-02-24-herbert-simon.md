@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ThingsWorth"
+title:  "Herbert Simon"
 date:   2019-02-24
 categories: computers
 ---

@@ -12,3 +12,6 @@ In spare moments I've been reading Wikipedia's pages about [anonymous masters](h
 * [De Onbekende Beeldhouwer](https://en.wikipedia.org/wiki/De_Onbekende_Beeldhouwer)
 * [Master of the Hartford Still-Life](https://en.wikipedia.org/wiki/Master_of_the_Hartford_Still-Life)
 * [Master L. Cz.](https://en.wikipedia.org/wiki/Master_L._Cz.)
+* [Master of the Osservanza Triptych](https://en.wikipedia.org/wiki/Master_of_the_Osservanza_Triptych)
+* [Master with the Parrot](https://collection.mcnayart.org/objects/1038). I saw [one of his paintings](https://collection.mcnayart.org/objects/1038) a few years ago at the McNay Art Museum and loved it.
+* [Master of the Playing Cards](https://en.wikipedia.org/wiki/Master_of_the_Playing_Cards)
