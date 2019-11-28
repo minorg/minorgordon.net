@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strange Loop"
+title:  "Strange Loop 2018"
 date:   2018-09-15
 categories: experiences
 ---
