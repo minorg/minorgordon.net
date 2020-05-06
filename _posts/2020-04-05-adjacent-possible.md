@@ -9,5 +9,5 @@ I've been reading Steven Johnson's _How We Got to Now: Six Innovations That Made
 
 One of the most interesting ideas Johnson emphasizes is the "adjacent possible", a term coined by the theoretical biologist Stuart Kauffman.
 
-> The adjacent possible is a kind of shadow future, hovering on the edges of the present state of things, a map of all the ways in which the present can reinvent itself. ... The strange and beautiful truth about the adjacent possible is that its boundaries grow as you explore them. Each new combination opens up the possibility of other new combinations.
+> "The adjacent possible is a kind of shadow future, hovering on the edges of the present state of things, a map of all the ways in which the present can reinvent itself. ... The strange and beautiful truth about the adjacent possible is that its boundaries grow as you explore them. Each new combination opens up the possibility of other new combinations."
  

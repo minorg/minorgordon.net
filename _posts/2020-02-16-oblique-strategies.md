@@ -9,6 +9,6 @@ A friend sent me a deck of [Oblique Strategies](https://en.wikipedia.org/wiki/Ob
  
 The Oblique Strategies are 
 
-> a card-based method for promoting creativity. ... Each card offers a challenging constraint intended to help artists (particularly musicians) break creative blocks by encouraging lateral thinking.
+> "a card-based method for promoting creativity. ... Each card offers a challenging constraint intended to help artists (particularly musicians) break creative blocks by encouraging lateral thinking."
 
 "Ask people to work against their better judgment."
