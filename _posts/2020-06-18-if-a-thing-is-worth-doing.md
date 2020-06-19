@@ -9,7 +9,7 @@ W. Richard Stevens, Buckminster Fuller, and my other professional role models we
 
 This attitude is closely bound to a strong intrinsic sense of what "doing well" means -- a personal standard. No one asked Buckminster Fuller to spend years creating the Dymaxion Map. Who would demand that much, except himself?
 
-Most people don't have that attitude. They put in the minimal effort to accomplish the task and get the reward. They cut corners, do things at the last minute, focus on the superficial, make it up as they go along. They are secretly proud of the fact that they got away with it one more time.
+Most people don't have that attitude. They put in the minimal effort to accomplish the task and get the reward. Their standards rise and fall with their circumstances. They cut corners, do things at the last minute, focus on the superficial, make it up as they go along. They are secretly proud of the fact that they got away with it one more time.
 
 I see that and I think that the thing they're getting away with is cheating themselves of their own potential. Why are they holding back?
 
