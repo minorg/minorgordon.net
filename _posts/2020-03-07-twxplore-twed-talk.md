@@ -1,7 +1,8 @@
 ---
-title: A clean architecture for semantic web applications
-categories:
-- work
+layout: post
+title: "A clean architecture for semantic web applications"
+date: 2020-03-07
+categories: work
 ---
 
 On Wednesday evening I gave [a talk](https://youtu.be/uEg2rvnqhMs) about recent work I've done on user-facing applications of semantic technologies. The abstract:
