@@ -1,5 +1,6 @@
 /.idea/
 *.iml
-_site
-.sass-cache
-.jekyll-metadata
+/.jekyll-cache/
+/.jekyll-metadata/
+/_site/
+/.sass-cache/
