@@ -9,5 +9,5 @@ categories: work
 
 ([This research](https://www.cmu.edu/news/archive/2010/October/oct1_collectiveintelligencestudy.shtml), summarized by Garth Sundem in _Brain Trust_)
 
-A friend sent me a related article from the New York Times Magazine, ["How Google Learned From Its Quest to Build the Perfect Team"](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html).
+A friend sent me a related article from the New York Times Magazine, ["What Google Learned From Its Quest to Build the Perfect Team"](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html).
 
