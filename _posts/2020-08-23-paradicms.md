@@ -17,7 +17,7 @@ Requirements on the "read" side also changed. Most small museums and archives ar
 
 With that pivot the whole system became an [extract-transform-load pipeline](https://en.wikipedia.org/wiki/Extract,_transform,_load):
 * **extract** collection data from a source such as Omeka
-* **transform** the data into a set of standard models, which are based on common vocabularies such as (Dublin Core)[https://en.wikipedia.org/wiki/Dublin_Core] and [VRA Core](https://www.loc.gov/standards/vracore/)
+* **transform** the data into a set of standard models, which are based on common vocabularies such as [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core) and [VRA Core](https://www.loc.gov/standards/vracore/)
 * **load** the models into various formats, including RDF, JSON, or a browsable web site
 
 The "load" to a browsable web site uses Next.js to generate the site. I am building different Next.js site templates that take the standard models as input and interpret them in different ways. For example, there is a multi-institution union catalog for DressDiscover and a site for one-off digital exhibitions.
