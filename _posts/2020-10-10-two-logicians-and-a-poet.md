@@ -20,5 +20,5 @@ I love slide 55, "Advice From Two Logicians and a Poet":
 **Alfred North Whitehead:**
 > "We must be systematic, but we should keep our systems open."
 
-**Robert Frost**
+**Robert Frost:**
 > "I’ve often said that every poem solves something for me in life. I go so far as to say that every poem is a momentary stay against the confusion of the world... We rise out of disorder into order. And the poems I make are little bits of order."
