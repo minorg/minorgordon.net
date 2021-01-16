@@ -5,7 +5,12 @@ date:   2020-12-04
 categories: work
 ---
 
-At the top of my CV there is a "Summary" section that starts with "I am a computer scientist, software architect, and thinker-doer." "Thinker-doer" comes from a video I found on YouTube a few years ago: an [interview with Steve Jobs](https://www.youtube.com/watch?v=WkJpEG4KbN4) in which he's asked about the ideal balance between thinking and doing:
+> "Thinkers are rare; doers are rarer; and thinker-doers are rarest."
+(Fred Brooks, "The Mythical Man Month")
+
+At the top of my CV there is a "Summary" section that starts with "I am a computer scientist, software architect, and thinker-doer."
+
+A few years ago I found this excerpt from an [interview with Steve Jobs](https://www.youtube.com/watch?v=WkJpEG4KbN4) in which he's asked about the ideal balance between thinking and doing:
 
 > "I've seen a lot of people make a lot of things. I've seen a lot of people fail a lot of things. My point of view on this, my observation is that the doers are the major thinkers. The people that really create the things that change this industry are both the thinker-doer in one person."
 
