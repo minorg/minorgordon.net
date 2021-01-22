@@ -19,4 +19,4 @@ He goes on to present a three-stage methodology for examining material objects, 
 
 Prown's article touches on several other topics, but this methodology is the main contribution.
 
-I first learned about this paper from Arden Kirkland et al.'s [_Dress_ article](({% post_url 2021-01-16-sharing-historic-costume-collections-online %})) in 2015. Later I read Valerie Steele's seminal paper ["A Museum of Fashion Is More Than a Clothes-Bag"](https://www.tandfonline.com/doi/abs/10.2752/136270498779476109), which discusses object-based research in fashion history using Prown's methodology.
+I first learned about this paper from Arden Kirkland et al.'s [_Dress_ article]({% post_url 2021-01-16-sharing-historic-costume-collections-online %}) in 2015. Later I read Valerie Steele's seminal paper ["A Museum of Fashion Is More Than a Clothes-Bag"](https://www.tandfonline.com/doi/abs/10.2752/136270498779476109), which discusses object-based research in fashion history using Prown's methodology.
