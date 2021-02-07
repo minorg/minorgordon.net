@@ -5,15 +5,15 @@ date:   2021-02-06
 categories: thingsworth
 ---
 
-# [What](#what)
+### [What](#what)
 
 "Jazz is a music genre that originated in the African-American communities of New Orleans, Louisiana, United States, in the late 19th and early 20th centuries, with its roots in blues and ragtime." ([Wikipedia](https://en.wikipedia.org/wiki/Jazz))
 
-# [Why](#why)
+### [Why](#why)
 
 Many different kinds of history are worth learning -- political history, military history, intellectual history -- but I've found that the histories I most enjoy are the ones that help me understand the context of other things I am passionate about, such as art, music, and technology. The history of jazz is one of those.
 
-# [How](#how)
+### [How](#how)
 
 When I was growing up I didn't know anyone who was interested in jazz, or I didn't know that they were. I came to it by an accident of curiosity, looking through albums at a store when I was 16. "It" was one of the greatest jazz albums of all time, Miles Davis's _Kind of Blue_.
 
