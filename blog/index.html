@@ -1,17 +1,26 @@
 ---
 layout: default
+title: Blog
 ---
 
-<div class="row">
-    <div class="col-12">
-        <h3>Latest posts</h3>
-        <ul class="list-unstyled">
-            {% for post in site.posts %}
-            <li class="mt-4">
-                <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
-                <p>{{ post.excerpt }}</p>
-            </li>
-            {% endfor %}
-        </ul>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="text-center">Blog</h1>
+            <table class="table table-bordered table-striped">
+                <tbody>
+                    {% for post in site.posts %}
+                    <tr>
+                        <td>
+                            <h5>{{ post.date | date_to_string }}</h5>
+                        </td>
+                        <td>
+                            <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
     </div>
 </div>

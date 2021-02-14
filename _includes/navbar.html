@@ -1,13 +1,9 @@
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/">Minor E. Gordon</a>
     <ul class="navbar-nav mr-auto">
         <li class="nav-item {% if page.url == '/' %}active{% endif %}">
             <a class="nav-link" href="/">Home</a>
         </li>
-        {% for page in site.pages %} {% if page.title %}
-        <li class="nav-item">
-            <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        </li>
-        {% endif %} {% endfor %}
         <li class="nav-item {% if page.url contains '/blog' %}active{% endif %}"><a class="nav-link" href="{{ "/blog/index.html" | prepend: site.baseurl }}">Blog</a></li>
     </ul>
 </nav>
