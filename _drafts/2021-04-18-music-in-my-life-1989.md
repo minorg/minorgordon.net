@@ -16,4 +16,4 @@ In 1989 I was 9 years old. I still listened to a lot of my parents' music, but 1
 - R.E.M.: "Stand"
 - Guns N' Roses: "Paradise City"
 - The B-52's: "Roam"
-- Janet Jackson: _Rhythm Nation_
+- Janet Jackson: _Rhythm Nation 1814_
