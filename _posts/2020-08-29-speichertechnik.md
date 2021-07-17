@@ -7,7 +7,7 @@ categories: work
 
 I've been reading Denis Judd's _Empire: The British Imperial Experience from 1765 to the Present_. In the chapter on Cecil Rhodes he writes:
 
-> "The intellectual influences which Rhodes absorbed during his lengthy and disjointed period of study at Oxford University gave him a coherent framework for his political convictions. He was later to confide to the journalist and editor W.T. Stead that at Oxford he had been deeply impressed by Aristotle's statement that it was supremely important to have an aim in life sufficently lofty to justify spending one's entire career in endeavoring to reach it."
+> The intellectual influences which Rhodes absorbed during his lengthy and disjointed period of study at Oxford University gave him a coherent framework for his political convictions. He was later to confide to the journalist and editor W.T. Stead that at Oxford he had been deeply impressed by Aristotle's statement that it was supremely important to have an aim in life sufficently lofty to justify spending one's entire career in endeavoring to reach it.
 
 I don't know enough about [Aristotelian teleology](https://en.wikipedia.org/wiki/Teleology#Aristotelian) to know which of Aristotle's writings that's referring to -- I'm also not a fan of Cecil Rhodes -- but the passage got me thinking about people whose careers embody that kind of dedication.
 

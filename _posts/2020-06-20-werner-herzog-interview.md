@@ -9,21 +9,21 @@ Yesterday the Guardian published a [great interview with Werner Herzog](https://
 
 ---
 
-> "Ideally, he would be out on a shoot right now. Until then there are books. Herzog reads voraciously; he says that all the good directors do."
+> Ideally, he would be out on a shoot right now. Until then there are books. Herzog reads voraciously; he says that all the good directors do.
 
 ...
 
-> "Does he read in English or German? 'Ha,' he says, as though I have fallen into his trap. 'I read in other languages, too. I read in Spanish and I read in Latin and I read in ancient Greek and I read in, er, whatever. But it doesn’t matter. It depends on the text. I mean, take, for instance, Hölderlin, the greatest of the German poets. You cannot touch him in translation. If you’re reading Hölderlin, you must learn German first.'"
+> Does he read in English or German? 'Ha,' he says, as though I have fallen into his trap. 'I read in other languages, too. I read in Spanish and I read in Latin and I read in ancient Greek and I read in, er, whatever. But it doesn’t matter. It depends on the text. I mean, take, for instance, Hölderlin, the greatest of the German poets. You cannot touch him in translation. If you’re reading Hölderlin, you must learn German first.'
 
 ...
 
-> "So does he think that speaking in a second language somehow makes him more respectful and considerate?"""
-
-> "'Ha,' says Herzog, The pedant pounces. 'English is not my second language. My second language is German.'"
-
-> "Fine, I say. Third language then."
-
-> "'Ha,' says Herzog. 'My third language is Latin.' No question can pin him, no lockdown can hold him. He will keep reading, raging, sparring clear through until Christmas."
+> So does he think that speaking in a second language somehow makes him more respectful and considerate?""
+>
+> 'Ha,' says Herzog, The pedant pounces. 'English is not my second language. My second language is German.'
+>
+> Fine, I say. Third language then.
+>
+> 'Ha,' says Herzog. 'My third language is Latin.' No question can pin him, no lockdown can hold him. He will keep reading, raging, sparring clear through until Christmas.
 
 ---
 

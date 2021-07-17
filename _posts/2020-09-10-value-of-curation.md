@@ -9,9 +9,9 @@ Last year the New York Times published an opinion piece titled ["A Better Intern
 
 One passage stood out to me:
 
-> "What would 'internet realists' want from their media streams? The opposite of what we have now. Today, platforms like Facebook and Twitter are designed to make users easy to contact. That was the novelty of social media — we could get in touch with people in new and previously unimaginable ways."
+> What would 'internet realists' want from their media streams? The opposite of what we have now. Today, platforms like Facebook and Twitter are designed to make users easy to contact. That was the novelty of social media — we could get in touch with people in new and previously unimaginable ways.
 >
-> "It also meant, by default, that any government or advertiser could do the same. Mr. Scalzi thinks we should turn the whole system on its head with 'an intense emphasis on the value of curation.' It would be up to you to curate what you want to see. Your online profiles would begin with everything and everyone blocked by default."
+> It also meant, by default, that any government or advertiser could do the same. Mr. Scalzi thinks we should turn the whole system on its head with 'an intense emphasis on the value of curation.' It would be up to you to curate what you want to see. Your online profiles would begin with everything and everyone blocked by default.
 
 I've been thinking about the "value of curation" in the context of my digital humanities projects, such as [Paradicms]({% post_url 2020-08-23-paradicms %}). I'm considering curation as a process of discovering, understanding, contextualizing, and synthesizing knowledge about the world. My focus is on how to build applications that support that process as well as communicate its results.
 

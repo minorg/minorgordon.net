@@ -11,6 +11,6 @@ Zinsser's thesis in _Writing to Learn_ is that writing about a subject is a mean
 
 Zinsser also advocates studying masterful writing as a way to improve one's practice. _Writing to Learn_ recounts a number of interviews with professors at Gustavus Adolphus College in Minnesota, following the introduction of [writing across the curriculum](https://en.wikipedia.org/wiki/Writing_across_the_curriculum):
 
-> "'Reading, writing and thinking are all integrated," said Kevin Byrne, associate professor of history. 'An idea can have value in itself, but its usefulness diminishes to the extent that you can't articulate it to someone else. ...'"
+> 'Reading, writing and thinking are all integrated," said Kevin Byrne, associate professor of history. 'An idea can have value in itself, but its usefulness diminishes to the extent that you can't articulate it to someone else. ...'
 > 
-> "Early in the term Professor Byrne told his students to bring in a historical passage that they considered well written and to explain why. 'It forces them to think about the elements that go into good writing,' he said, 'and it shows them that there are many different kinds of good writing, not just one.'"
+> Early in the term Professor Byrne told his students to bring in a historical passage that they considered well written and to explain why. 'It forces them to think about the elements that go into good writing,' he said, 'and it shows them that there are many different kinds of good writing, not just one.'
