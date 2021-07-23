@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guardian interviews"
+title:  "Enigmatology"
 date:   2021-07-18
 categories: reading
 ---
