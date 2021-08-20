@@ -16,3 +16,5 @@ My next attempt at a desk was NSF wire shelving, arranged into connected monitor
 I've yet to own a standing desk that's actually built for that purpose. My current home office desk is a steel utility shelf, like the kind people put in their garages. I found a model that's wide enough to accommodate two monitors. The next shelf down has my keyboard and mouse. I can't see my hands when I'm working, but I've gotten used to that.
 
 While I'm working I stand on a Gorilla Grip mat. It's firm enough that my feet don't sink into it, but still forces me to adjust my posture occasionally, which is good. I've also learned that I need to wear shoes with proper support, and not house shoes.
+
+The switch from sitting to standing has worked well for me. I rarely have to deal with back pain any more. I feel like my posture has improved. I can stand for hours at a time, though I usually try to break up the standing with other activities. I'll walk around while I'm on the phone, or sit and read. I believe the back pain largely stemmed from working with a keyboard, so I stand if I'm going to be typing a lot.
