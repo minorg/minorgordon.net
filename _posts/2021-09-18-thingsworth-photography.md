@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Things worth learning: note-taking"
+title:  "Things worth learning: photography"
 date:   2021-09-18
 categories: thingsworth
 ---
