@@ -20,7 +20,7 @@ My view, in priority order:
    1. What tasks are we doing?
    2. What tools are we using?
    
-In my field (Computer Science/Information Technology) **When** and **Where** are rarely differentiators, since most people in the field work during business hours in an office setting. My list also elides monetary compensation, because it's usually determined by the other factors.
+In my field (software engineering) **When** and **Where** are rarely differentiators, since most people in the field work during business hours in an office setting. My list also elides monetary compensation, because it's usually determined by the other factors.
 
 I've found that higher-priority factors like **Who** can compensate for deficiencies in lower-priority factors like **What**, but not vice versa. All four factors are correlated.
 
