@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to do write a great research paper"
+title:  "How to write a great research paper"
 date:   2020-05-06
 categories: work
 ---
