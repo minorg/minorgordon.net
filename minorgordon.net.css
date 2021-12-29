@@ -3,6 +3,11 @@ blockquote {
   font-style: italic;
 }
 
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+  filter: invert(1)
+}
+
 /** Lumen */
 /*!
  * Bootswatch v5.1.3
