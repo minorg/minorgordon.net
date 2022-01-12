@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Turing lectures"
-date:   2021-11-03
+date:   2022-01-12
 categories: reading
 ---
 
@@ -17,6 +17,6 @@ Choosing favorites is more challenging, since the lectures are all excellent. I'
 * John Hopcroft: ["Computer science: the emergence of a discipline"](https://dl.acm.org/doi/abs/10.1145/214748.214750)
 * Ed Feigenbaum: ["How the 'what' becomes the 'how'"](https://dl.acm.org/doi/10.1145/1283920.1283951)
 * Jim Gray: ["What next? A dozen information-technology research goals"](https://dl.acm.org/doi/abs/10.1145/1283920.2159561)
-* Alan Kay: "First courses in computing should be child's play"
-* Chuck Thacker: "Improving the future by examining the past"
-* Michael Stonebraker: "Postgres"
+* Alan Kay: ["First courses in computing should be child's play"](https://www.youtube.com/watch?v=ymF94cFfzUQ)
+* Chuck Thacker: ["Improving the future by examining the past"](https://www.youtube.com/watch?v=QVhQSINWml8)
+* Michael Stonebraker: ["Postgres"](https://www.youtube.com/watch?v=BbGeKi6T6QI)
