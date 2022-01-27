@@ -29,7 +29,7 @@ categories: reading
 * Fashion history as connector of history (Norman Parkinson + the Queen)
 * Bibliography of CS memoirs, biographies
 * Lessons we still need to learn or have forgotten
-* _Moral Compass_ + literate programming
+* _Book of Virtues_ + literate programming
 * DEVONthink
 * [Robert Grudin](https://en.wikipedia.org/wiki/Robert_Grudin)
 * Mohr: _Holy Sh*t: A Brief History of Swearing_
