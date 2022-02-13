@@ -2,7 +2,7 @@
 layout: post
 title:  "Mentorship"
 date:   2021-06-05
-categories: experience
+categories: experiences
 ---
 
 I've been thinking about mentorship, and why it's so important to me. I've had great mentors in my life: my father; teachers like [Linda Batty]({% post_url 2020-05-23-linda-batty %}); the coding wizard who taught me C as a teenager; my undergraduate and graduate advisors; several of my bosses. I am a better person and a better professional than I would have been had I never met these people. They also inspired me to be a mentor to others in my turn.

@@ -2,7 +2,7 @@
 layout: post
 title:  "The roots of hip-hop"
 date:   2021-07-23
-categories: experience
+categories: experiences
 ---
 
 I've been listening to an awesome Spotify playlist of tracks that were later sampled by hip-hop artists: "Atomic Dog", "Funky Drummer", et al. The music spans several genres, and almost all of it is great. I've enjoyed the history lesson, and it's fun to be reminded of the hip-hop tracks that came later.
