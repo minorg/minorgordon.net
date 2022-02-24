@@ -9,7 +9,11 @@ categories: reading
 
 ### Programming languages
 
-Hoare: "An axiomatic basis for computer programming"
+* Hoare: "An axiomatic basis for computer programming"
+
+XXX
+
+* Stroustrup: "How can you be so certain?"
 
 ### Systems
 
