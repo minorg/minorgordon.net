@@ -21,7 +21,6 @@ title: Great books
 * Horace: _Odes_
 * Henry James: _The Portrait of a Lady_
 * Niccolo Machiavelli: _The Prince_
-* Henry Miller: _Tropic of Cancer_
 * Samuel Pepys: _The Diary of Samuel Pepys_
 * Marcel Proust: _In Search of Lost Time_
 * Raymond Queneau: _Zazie in the Metro_
