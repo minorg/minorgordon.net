@@ -16,11 +16,13 @@ title: Great books
 * Umberto Eco: _Foucault's Pendulum_
 * George Eliot: _Middlemarch_
 * Ivan Goncharov: _Oblomov_
+* Hobbes: _Leviathan_
 * Homer: _The Iliad_
 * Homer: _The Odyssey_
-* Horace: _Odes_
+* Horace: _Odes_ (translation by Milton)
 * Henry James: _The Portrait of a Lady_
 * Niccolo Machiavelli: _The Prince_
+* John Milton: _Paradise Lost_
 * Samuel Pepys: _The Diary of Samuel Pepys_
 * Marcel Proust: _In Search of Lost Time_
 * Raymond Queneau: _Zazie in the Metro_
@@ -31,6 +33,7 @@ title: Great books
 * Francois Villon: _Poems_
 * Virgil: _The Aeneid_
 * Voltaire: _Candide_
+* Max Weber: _The Protestant Ethic and the Spirit of Capitalism_
 
 #### Have read / worth reading
 
