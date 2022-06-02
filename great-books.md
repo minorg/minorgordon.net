@@ -26,6 +26,7 @@ title: Great books
 * Samuel Pepys: _The Diary of Samuel Pepys_
 * Marcel Proust: _In Search of Lost Time_
 * Raymond Queneau: _Zazie in the Metro_
+* Edmond Rostand: _Cyrano de Bergerac_
 * Francoise Sagan: _Bonjour Tristesse_
 * Shakespeare: _Hamlet_
 * Shakespeare: _Othello_
