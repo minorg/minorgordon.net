@@ -12,3 +12,4 @@ I haven't read any fiction since 2018, but I decided recently that I really want
 * Jennifer Crusie: _Bet Me_
 * Ali Hazelwood: _The Love Hypothesis_
 * Erin Sterling: _The Ex Hex_
+* Kate Clayborn: _Love Lettering_
