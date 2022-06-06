@@ -26,7 +26,6 @@ title: Great books
 * Samuel Pepys: _The Diary of Samuel Pepys_
 * Marcel Proust: _In Search of Lost Time_
 * Raymond Queneau: _Zazie in the Metro_
-* Edmond Rostand: _Cyrano de Bergerac_
 * Francoise Sagan: _Bonjour Tristesse_
 * Shakespeare: _Hamlet_
 * Shakespeare: _Othello_
@@ -99,6 +98,7 @@ title: Great books
 * Rainer Maria Rilke: _The Duino Elegies_
 * Arthur Rimbaud: _A Season in Hell_
 * Jean Rhys: _Wide Sargasso Sea_
+* Edmond Rostand: _Cyrano de Bergerac_
 * Antoine de Saint-Exupery: _The Little Prince_
 * Walter Scott: _Ivanhoe_
 * Shakespeare: _Romeo and Juliet_
