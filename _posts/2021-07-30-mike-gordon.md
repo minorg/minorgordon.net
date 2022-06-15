@@ -17,4 +17,4 @@ The archive of his site has a [number of articles](https://www.cl.cam.ac.uk/arch
 
 My experience of higher math was similar, though I'm sure it was far less challenging than Professor Gordon's was, and I am far less talented than he gives himself credit for.
 
-I feel the same way about the mathematical and algorithmic parts of Computer Science. I did well enough in those classes, but I never felt that algorithm design, advanced statistics, et al. were going to be my strengths. I prefer the engineering side of Computer Science -- figuring out how to combine, curate, and synthesize in order to solve problems.
+I feel the same way about the mathematical and algorithmic parts of computer science. I did well enough in those classes, but I never felt that algorithm design, advanced statistics, et al. were going to be my strengths. I prefer the engineering side of computer science -- figuring out how to combine, curate, and synthesize in order to solve problems.

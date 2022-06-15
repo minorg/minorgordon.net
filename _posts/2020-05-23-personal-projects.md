@@ -7,7 +7,7 @@ categories: work
 
 I've been programming for a while. With the exceptions of the occasional vacation and a year in college when I didn't have a computer, I've written some code almost every day since 1993. I started with [QBasic](https://en.wikipedia.org/wiki/QBasic) on a hand-me-down PC, then picked up a BASIC dialect for [Wildcat! BBSs](https://en.wikipedia.org/wiki/Wildcat!_BBS). After that I learned [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) and [C](https://en.wikipedia.org/wiki/C_(programming_language)). I got on the Internet in 1995 and wrote my first web application not long after.
 
-In college I studied Computer Science, and programming became my profession. Eventually I learned enough about it to solve many common problems without much thought. There are only so many ways to parse HTTP 1, for example, and I'd venture to say I've tried most of them.
+In college I studied computer science, and programming became my profession. Eventually I learned enough about it to solve many common problems without much thought. There are only so many ways to parse HTTP 1, for example, and I'd venture to say I've tried most of them.
 
 There was always the possibility that I would become bored with programming. I've witnessed this happen to other professionals. They get tired of keeping up with the latest technologies, and seeing wheels reinvented by the next generation.
 

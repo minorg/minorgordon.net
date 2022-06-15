@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Favorite Computer Science papers"
+title:  "Favorite computer science papers"
 date:   2022-02-19
 categories: reading
 ---

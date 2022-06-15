@@ -7,7 +7,7 @@ categories: reading
 
 For the last few months I've been casually reading the archives of the [AskHistorians](https://en.wikipedia.org/wiki/R/AskHistorians) subreddit. There is a fair bit of dross (e.g., Nazi-related questions), but the sheer breadth of the topics and expertise on display makes up for that. For someone who's as interested in as many history-related subjects as I am, it's a gold mine.
 
-I enjoy my dilettantism -- learning a little about a lot of things. I've only made deeper commitments to a few subjects in my life, like my graduate research in Computer Science. My preference for breadth over depth has been reflected in my career. One of the reasons I studied Computer Science is that it [affords so many different opportunities]({% post_url 2020-07-19-bifurcation %}).
+I enjoy my dilettantism -- learning a little about a lot of things. I've only made deeper commitments to a few subjects in my life, like my graduate research in computer science. My preference for breadth over depth has been reflected in my career. One of the reasons I studied computer science is that it [affords so many different opportunities]({% post_url 2020-07-19-bifurcation %}).
 
 My aspiration is to be a "jack of all trades", but I certainly don't want to be a "master of none". It's very easy for "learning a little about a lot of things" to become "only dealing in the superficial". I've become more aware of this tendency in the last year or two.
 

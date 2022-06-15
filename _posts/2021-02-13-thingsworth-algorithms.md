@@ -11,7 +11,7 @@ categories: thingsworth
 
 ### [Why](#why)
 
-Algorithms are the core of the Computer Science curriculum, taught over several undergraduate and graduate courses.
+Algorithms are the core of the computer science curriculum, taught over several undergraduate and graduate courses.
 
 Algorithms are also at the heart of [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking), which I believe is as important as knowing how to write code, and should be taught in tandem. Computational thinking is useful for many areas of life, and not just for working with computers.
 

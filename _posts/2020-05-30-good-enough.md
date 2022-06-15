@@ -5,7 +5,7 @@ date:   2020-05-30
 categories: work
 ---
 
-Most problems in Computer Science and software engineering are amenable to minimum viable solutions. You implement the simplest and fastest approach that satisfies the requirements. You don't gold-plate or prematurely optimize, because You Aren't Gonna Need It. When new requirements emerge, you incrementally adapt your implementation to meet them.
+Most problems in computer science and software engineering are amenable to minimum viable solutions. You implement the simplest and fastest approach that satisfies the requirements. You don't gold-plate or prematurely optimize, because You Aren't Gonna Need It. When new requirements emerge, you incrementally adapt your implementation to meet them.
 
 I often take this approach, and strive to be pragmatic. I can churn out code quickly when I need to. That said, in some situations incremental evolution is counter-productive. You have to commit to fundamental design choices up front, and the cost of changing them later is prohibitive. Developing non-trivial database schemas or ontologies is often like that, for example. I find those problems that require big-picture design and long-term thinking play to my strengths, and I enjoy working on them.
 

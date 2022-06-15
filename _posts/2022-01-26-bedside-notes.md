@@ -24,7 +24,7 @@ categories: reading
 * Oral history: what is the role of historical awareness in your life?
 * Compendium of quotes from the first pages of books
 * Version of Richard Scarry for modern tech
-* Sgt. Pepper's cover of Computer Science luminaries (with image map)
+* Sgt. Pepper's cover of computer science luminaries (with image map)
 * Felice Bauer knitwear
 * Fashion history as connector of history (Norman Parkinson + the Queen)
 * Bibliography of CS memoirs, biographies
