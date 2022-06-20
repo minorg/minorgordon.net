@@ -15,6 +15,7 @@ title: Great books
 * Charles Darwin: _The Origin of Species_
 * Umberto Eco: _Foucault's Pendulum_
 * George Eliot: _Middlemarch_
+* Elizabeth Gaskell: _North and South_
 * Ivan Goncharov: _Oblomov_
 * Hobbes: _Leviathan_
 * Homer: _The Iliad_
