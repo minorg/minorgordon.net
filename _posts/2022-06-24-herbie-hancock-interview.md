@@ -2,7 +2,7 @@
 layout: post
 title:  "Herbie Hancock interview"
 date:   2022-06-24
-categories: 
+categories: reading
 ---
 
 This morning the Guardian published an interview with Herbie Hancock, who's playing at Glastonbury this year.
