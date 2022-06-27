@@ -1,7 +1,10 @@
 .~lock*
+/.bundle/
 /.idea/
 *.iml
 /.jekyll-cache/
 /.jekyll-metadata/
 /_site/
 /.sass-cache/
+/vendor/
+
