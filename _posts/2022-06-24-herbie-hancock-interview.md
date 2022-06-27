@@ -5,7 +5,7 @@ date:   2022-06-24
 categories: reading
 ---
 
-This morning the Guardian published an interview with Herbie Hancock, who's playing at Glastonbury this year.
+This morning the Guardian published an [interview with Herbie Hancock](https://www.theguardian.com/music/2022/jun/24/herbie-hancock-miles-davis-told-me-i-dont-pay-you-to-get-applause), who's playing at Glastonbury this year.
 
 > **What was Davis like as a bandleader?**
 > 

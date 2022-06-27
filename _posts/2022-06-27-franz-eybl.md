@@ -9,12 +9,12 @@ On my first trip to Europe in 1999 I spent two weeks in Vienna, and visited the 
 
 <br/>
 
-<img src="/img/2022-06-27-franz-eybl-1.jpeg" alt="Franz Eybl painting 1" style="width: 960px;"/>
+<img src="/img/2022-06-27-franz-eybl-1.jpeg" alt="Franz Eybl painting 1" style="max-width: 50vw;"/>
 
 Franz Eybl, [Selbstporträt mit Hut](https://en.wikipedia.org/wiki/Franz_Eybl#/media/File:Franz_Eybl,_Selbstportr%C3%A4t_mit_Hut.jpg), around 1840, oil on canvas
 
 <br/>
 
-<img src="/img/2022-06-27-franz-eybl-2.jpeg" alt="Franz Eybl painting 2" style="width: 960px;"/>
+<img src="/img/2022-06-27-franz-eybl-2.jpeg" alt="Franz Eybl painting 2" style="max-width: 50vw;"/>
 
 Franz Eybl, [Lesendes Mädchen](https://en.wikipedia.org/wiki/Franz_Eybl#/media/File:Franz_Eybl,_Lesendes_M%C3%A4dchen.jpg), 1850, oil on canvas
