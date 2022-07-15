@@ -15,3 +15,4 @@ I recently decided to give fiction another chance, and thought I'd try a new gen
 * Helen Hoang: _The Kiss Quotient_
 * Erin Sterling: _The Ex Hex_
 * Penny Reid: _Kissing Tolstoy_
+* Emily Henry: _Book Lovers_
