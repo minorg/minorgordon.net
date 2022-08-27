@@ -5,7 +5,7 @@ date:   2022-05-09
 categories: reading
 ---
 
-Yesterday the Guardian's film critic reviewed a new documentary about the musicians Nick Cave and Warren Ellis as they prepared for a 2021 tour.
+Yesterday the Guardian's film critic [reviewed a new documentary](https://www.theguardian.com/film/2022/may/08/this-much-i-know-to-be-true-review-nick-cave-and-warren-ellis-on-transcendent-form-andrew-dominik-documentary) about the musicians Nick Cave and Warren Ellis as they prepared for a 2021 tour.
 
 > With trademark wry humour, Dominik's film opens with Cave declaring that, during lockdown, he took the opportunity to retrain (against his manager's advice) as a ceramicist. The fruits of his labour include a series of figurines telling the pathos-laden story of the devil; from birth, through war, to damnation and remorse. Later, Cave reveals that while he would once have described himself as a musician and writer, now he is striving to shed those labels in favour of being a husband, father, friend and citizen.
 > 
