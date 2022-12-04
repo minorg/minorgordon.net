@@ -32,6 +32,7 @@ theme: minima
 exclude:
  - Gemfile
  - Gemfile.lock
+ - deploy.sh
  - .idea/
  - node_modules
  - vendor/bundle/
