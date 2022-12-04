@@ -33,7 +33,6 @@ exclude:
  - Gemfile
  - Gemfile.lock
  - .idea/
- - www.minorgordon.net.iml
  - node_modules
  - vendor/bundle/
  - vendor/cache/
