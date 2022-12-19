@@ -2,7 +2,7 @@
 layout: post
 title:  "Forgotten ideas in computer science"
 date:   2021-03-13
-categories: work
+description: References from a Joe Armstrong talk on "The Forgotten Ideas in Computer Science"
 ---
 
 This week I found a video of a 2018 keynote by Joe Armstrong, ["The Forgotten Ideas in Computer Science"](https://www.youtube.com/watch?v=-I_jE0l7sYQ). It's the same talk that evolved into ["Computer Science: a guide for the perplexed"](https://www.youtube.com/watch?v=rmueBVrLKcY), a rambling discourse on computer science, software engineering, and the IT industry. The genesis of the talk was [this Twitter thread](https://twitter.com/joeerl/status/951357931559284736?lang=en) soliciting "examples of great CS ideas that have been largely forgotten", such as Linda [tuple spaces](https://en.wikipedia.org/wiki/Tuple_space).

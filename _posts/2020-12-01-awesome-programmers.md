@@ -2,7 +2,7 @@
 layout: post
 title:  "Awesome programmers"
 date:   2020-12-01
-categories: work
+description: Collection of links to the Wikipedia pages of various well-known programmers and computer scientists
 ---
 
 I'm a fan of the various "awesome-" lists on GitHub, like [`awesome-glam-semweb`](https://github.com/ncarboni/awesome-GLAM-semweb), "a curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners".

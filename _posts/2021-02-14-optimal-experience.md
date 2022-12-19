@@ -2,7 +2,7 @@
 layout: post
 title:  "Optimal experience"
 date:   2021-02-14
-categories: work
+description: The changing nature of optimal experiences in my work
 ---
 
 When I first learned to program computers I could easily immerse myself in what [Mihaly Csikszentmihalyi](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) calls a [_flow_](https://en.wikipedia.org/wiki/Flow_(psychology)) state of "concentration or complete absorption with the activity at hand". The circumstances were right. "To achieve a flow state, a balance must be struck between the challenge of the task and the skill of the performer. If the task is too easy or too difficult, flow cannot occur. Both skill level and challenge level must be matched and high; if skill and challenge are low and matched, then apathy results."

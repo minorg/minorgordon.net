@@ -2,7 +2,7 @@
 layout: post
 title:  "Strange Loop 2019"
 date:   2019-11-28
-categories: experiences
+description: Interesting talks from The Strange Loop conference
 ---
 
 I didn't make [The Strange Loop](https://www.thestrangeloop.com/2019/sessions.html) this year, unfortunately. I've been watching some of the talks on YouTube.

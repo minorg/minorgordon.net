@@ -2,7 +2,7 @@
 layout: post
 title:  "Standing desk"
 date:   2021-08-19
-categories: experiences
+description: "How I got started using a standing desk"
 ---
 
 I started using a standing a desk almost a decade ago. There was a popular news article around that time about the supposed health benefits of standing to work, compared to sitting most of the day. I thought I'd give it a try. I also wanted to address the upper back pain I'd been struggling with for several years. I found it hard to maintain good posture while sitting for extended periods, even with an Aeron chair and the desk, monitor, keyboard, et al. adjusted to my height.

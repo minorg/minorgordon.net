@@ -2,7 +2,7 @@
 layout: post
 title:  "Value of curation"
 date:   2020-09-10
-categories: reading
+description: Curation as a process of discovering, understanding, contextualizing, and synthesizing knowledge about the world
 ---
 
 Last year the New York Times published an opinion piece titled ["A Better Internet Is Waiting For Us"](https://www.nytimes.com/interactive/2019/11/30/opinion/social-media-future.html). I'm not much of a social media user, though I've been online long enough -- starting with BBSs in the early 1990s -- to understand some of the issues the article raises.

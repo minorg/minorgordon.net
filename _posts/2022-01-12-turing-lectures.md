@@ -2,7 +2,7 @@
 layout: post
 title:  "Turing lectures"
 date:   2022-01-12
-categories: reading
+description: Favorite Turing lectures
 ---
 
 As part of my plan to read more primary sources this year I've prioritized some reading that's been on my list for a number of years, starting with the [Turing lectures](https://amturing.acm.org/lectures.cfm). That was an easy choice.

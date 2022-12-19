@@ -2,7 +2,7 @@
 layout: post
 title:  "Personal projects"
 date:   2020-05-23
-categories: work
+description: Using personal projects to learn and experiment
 ---
 
 I've been programming for a while. With the exceptions of the occasional vacation and a year in college when I didn't have a computer, I've written some code almost every day since 1993. I started with [QBasic](https://en.wikipedia.org/wiki/QBasic) on a hand-me-down PC, then picked up a BASIC dialect for [Wildcat! BBSs](https://en.wikipedia.org/wiki/Wildcat!_BBS). After that I learned [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) and [C](https://en.wikipedia.org/wiki/C_(programming_language)). I got on the Internet in 1995 and wrote my first web application not long after.

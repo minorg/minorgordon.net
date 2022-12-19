@@ -2,7 +2,7 @@
 layout: post
 title:  "Generalist software engineer"
 date:   2022-08-01
-categories: reading
+description: A new project to curate a list of books and articles about the non-technical side of working as a software engineer
 ---
 
 I've been curating [a list of books and articles](https://github.com/minorg/awesome-generalist-software-engineer) about the non-technical side of working as a software engineer in industry. Most of the books are ones I've mentioned before in posts here.

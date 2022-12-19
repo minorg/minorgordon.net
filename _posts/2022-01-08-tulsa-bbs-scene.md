@@ -2,7 +2,7 @@
 layout: post
 title:  "Tulsa BBS scene"
 date:   2022-01-08
-categories: experiences
+description: Reminisces of the Tulsa BBS scene in the early 1990s
 ---
 
 This week an old friend from the Tulsa [Bulletin Board System (BBS)](https://en.wikipedia.org/wiki/Bulletin_board_system) scene found me online and emailed. It had been 26 years. We've been reminiscing about some of the people we knew, and found [this list](http://bbslist.textfiles.com/918/918.txt) of the BBSs from that time. My friend's BBS is listed, as is my own, and I recall being a user of many of the others.

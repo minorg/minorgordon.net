@@ -2,7 +2,7 @@
 layout: post
 title:  "How to write a great research paper"
 date:   2020-05-06
-categories: work
+description: Simon Peyton-Jones's talks for new researchers
 ---
 
 For the group meeting this week I suggested we review Simon Peyton Jones's recorded talk on ["How to write a great research paper"](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/). Peyton Jones gives this talk every year to incoming graduate students in Cambridge; I heard it in 2005. I particularly like the advice on writing abstracts, which came from Kent Beck (["How to get a paper accepted at OOPSLA"](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html)).

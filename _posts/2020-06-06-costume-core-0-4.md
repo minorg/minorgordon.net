@@ -2,7 +2,7 @@
 layout: post
 title:  "Costume Core 0.4"
 date:   2020-06-06
-categories: work
+description: New release of the Costume Core ontology for describing artifacts of historic clothing
 ---
 
 Last year I wrote about [DressDiscover]({% post_url 2019-12-22-dressdiscover %}), a suite of open source web applications for digital collections of historic clothing.

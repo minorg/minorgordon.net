@@ -2,7 +2,7 @@
 layout: post
 title:  "Andrew Odlyzko"
 date:   2020-06-13
-categories: work
+description: One of my intellectual heroes
 ---
 
 Recently one of my personal projects spurred me to revisit the work of another one of my intellectual heroes, [Andrew Odlyzko](https://en.wikipedia.org/wiki/Andrew_Odlyzko). He made his name as a mathematician at Bell Labs in the 1970s and 1980s, but I found out about him from his 2001 essay ["Content is Not King"](https://firstmonday.org/article/view/833/742), in which he argues that people are more interested in using a new medium for communication than for entertainment.

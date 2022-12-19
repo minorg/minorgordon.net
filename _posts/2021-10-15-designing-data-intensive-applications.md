@@ -2,7 +2,7 @@
 layout: post
 title:  "Designing data-intensive applications"
 date:   2021-10-15
-categories: reading
+description: Impressions of Martin Kleppmann's <i>Designing Data-Intensive Applications</i> and projects at Ink & Switch
 ---
 
 This week I finished reading Martin Kleppmann's _Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems_. Most of the concepts were familiar -- consensus algorithms, replication, publish/subscribe -- but it's been over a decade since I was into those subjects, and I felt like I'd lost touch with them. The fundamentals are much the same, but there are many more variations and freely-available implementations than there were ten years ago. The emergence of [conflict-free replicated data types (CRDTs)](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type), the mainstream acceptance of [dataflow programming](https://en.wikipedia.org/wiki/Dataflow_programming), and the wider use of event sourcing in distributed systems are particularly exciting developments.

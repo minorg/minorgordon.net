@@ -2,7 +2,7 @@
 layout: post
 title:  "Paradicms"
 date:   2020-08-23
-categories: work
+description: "New personal project: Paradicms, a multi-paradigm Collections Management System (CMS) for small museums and archives"
 ---
 
 Recently most of my personal project time has been dedicated to developing [Paradicms](https://github.com/minorg/paradicms), a new multi-paradigm [Collections Management System (CMS)](https://en.wikipedia.org/wiki/Collections_management_system) for small museums and archives.

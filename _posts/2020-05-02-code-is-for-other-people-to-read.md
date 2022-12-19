@@ -2,7 +2,7 @@
 layout: post
 title:  "Code is for other people to read"
 date:   2020-05-02
-categories: work
+description: Thoughts on consistency in software engineering
 ---
 
 In my presentations about software engineering best practices I like to quote Abelson's _Structure and Interpretation of Computer Programs_:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Thinker-doer"
 date:   2020-12-04
-categories: work
+description: What is a thinker-doer?
 ---
 
 > Thinkers are rare; doers are rarer; and thinker-doers are rarest.

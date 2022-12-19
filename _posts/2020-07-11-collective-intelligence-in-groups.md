@@ -2,7 +2,7 @@
 layout: post
 title:  "Collective intelligence in groups"
 date:   2020-07-11
-categories: work
+description: Two articles about collective intelligence in groups
 ---
 
 > Researchers at Carnegie Mellon ... provided the first direct evidence for a fixed collective intelligence in groups. Interestingly, factors you might assume made smart groups -- including group cohesion, motivation, and satisfaction -- had no effect. But there were three things that across many studies created smarter groups: (1) social sensitivity; (2) little variance in members' number of speaking turns -- the conversation wasn't dominated by one voice; and (3) the proportion of members who were female -- though this was due in part to social sensitivity.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Sharing Historic Costume Collections Online"
 date:   2021-01-16
-categories: work
+description: Reflecting on "Sharing Historic Costume Collections Online" and how it's shaped my direction since 2015 
 ---
 
 I recently re-read "Sharing Historic Costume Collections Online: Why and How", an article that appeared in _Dress_ in 2015. I chanced upon this article while skimming the table of contents of that issue not long after it arrived, when the journal was sitting on my kitchen table. My wife was in graduate school, studying costume history. She was a long-time member of the professional society that publishes _Dress_. I was working as a freelance software developer.

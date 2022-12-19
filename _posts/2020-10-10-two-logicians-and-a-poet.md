@@ -2,7 +2,7 @@
 layout: post
 title:  "Two logicians and a poet"
 date:   2020-10-10
-categories: work
+description: Amusing slide from a John Sowa keynote on "Language, Ontology, and the Semantic Web"
 ---
 
 [John F. Sowa](https://en.wikipedia.org/wiki/John_F._Sowa) gave a [keynote on "Language, Ontology, and the Semantic Web"](https://2020.eswc-conferences.org/keynote-john-f-sowa/) at ESWC this year. The slides are [online](http://jfsowa.com/talks/eswc.pdf).

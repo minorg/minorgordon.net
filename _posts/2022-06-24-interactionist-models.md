@@ -2,7 +2,7 @@
 layout: post
 title:  "Interactionist models"
 date:   2022-06-24
-categories: reading
+description: Reading about interactionist models in human-computer interaction
 ---
 
 I've read a few papers recently about interactionist models in human-computer interaction (HCI). It's not an area I'm very familiar with, but I've found this perspective fascinating.

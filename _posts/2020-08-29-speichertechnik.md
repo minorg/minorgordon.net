@@ -2,7 +2,7 @@
 layout: post
 title:  "Speichertechnik"
 date:   2020-08-29
-categories: work
+description: Remembering a class I took at the TU Berlin
 ---
 
 I've been reading Denis Judd's _Empire: The British Imperial Experience from 1765 to the Present_. In the chapter on Cecil Rhodes he writes:

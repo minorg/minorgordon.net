@@ -2,7 +2,7 @@
 layout: post
 title:  "Computational creativity"
 date:   2020-03-19
-categories: reading
+description: Reading papers from the International Conference on Computational Creativity
 ---
 
 This week I've been reading some papers from the International Conference on Computational Creativity. Among the usual dross you find at every conference there are some hidden gems, like these quotes from jazz musicians in a paper titled ["Designing Improvisational Interfaces"](http://www.computationalcreativity.net/iccc2016/wp-content/uploads/2016/01/Designing-Improvisational-Interfaces.pdf).

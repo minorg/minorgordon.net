@@ -2,7 +2,7 @@
 layout: post
 title:  "What makes a job good?"
 date:   2021-10-23
-categories: work
+description: Priorities
 ---
 
 My view, in priority order:

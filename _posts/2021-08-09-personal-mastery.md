@@ -2,7 +2,7 @@
 layout: post
 title:  "Personal mastery"
 date:   2021-08-09
-categories: work
+description: Quote from Dan Ingalls's essay "Design Principles Behind Smalltalk"
 ---
 
 > **Personal Mastery**: If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual.

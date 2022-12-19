@@ -2,7 +2,7 @@
 layout: post
 title:  "Slow technology"
 date:   2022-06-15
-categories: reading
+description: Impressions of the paper "Slow Technology - Designing for Reflection"
 ---
 
 This week I read ["Slow Technology - Designing for Reflection"](https://dl.acm.org/doi/10.1007/PL00000019) after seeing it referenced in another paper. "Slow Technology" was published over 20 years ago, but the concrete parts are still interesting:

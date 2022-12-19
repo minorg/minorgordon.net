@@ -2,7 +2,7 @@
 layout: post
 title:  "Good enough"
 date:   2020-05-30
-categories: work
+description: "The space between \"good enough\" and gold-plating "
 ---
 
 Most problems in computer science and software engineering are amenable to minimum viable solutions. You implement the simplest and fastest approach that satisfies the requirements. You don't gold-plate or prematurely optimize, because You Aren't Gonna Need It. When new requirements emerge, you incrementally adapt your implementation to meet them.

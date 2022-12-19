@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning spiral"
 date:   2021-12-12
-categories: reading
+description: The way I approach learning new subjects
 ---
 
 There are thousands of books in my personal library, which is scattered throughout the house. Perhaps 100 of them relate to my work: computer science, software engineering, mathematics, business. The rest are as eclectic as my interests, and reflect the way I learn. I start with the fundamentals of a subject and focus on that until I'm ready to move on. Then I focus on another subject, and another. After some months or years I return to the first subject, and go a little deeper, then leave it for a while. My library reflects the course I've taken -- there are few books on any one specific subject, but many subjects are represented.

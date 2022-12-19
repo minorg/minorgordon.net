@@ -2,7 +2,7 @@
 layout: post
 title:  "Commonsense estimation"
 date:   2020-12-01
-categories: work
+description: Notes on "Optimal Choice of Granularity In Commonsense Estimation" by Jerry Hobbs
 ---
 
 A few years before his collaboration with Andrew Gordon on [formal theories of commonsense psychology]({% post_url 2020-12-01-commonsense-psychology %}), Jerry Hobbs published a fascinating paper on "Optimal Choice of Granularity In Commonsense Estimation". The abstract:

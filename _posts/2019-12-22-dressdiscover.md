@@ -2,7 +2,7 @@
 layout: post
 title:  "DressDiscover"
 date:   2019-12-22
-categories: projects
+description: Revisiting one of my personal projects, DressDiscover, a suite of open source web applications for digital collections of historic clothing
 ---
 
 Over the winter break I've been reviving [DressDiscover](https://github.com/minorg/dressdiscover), a suite of open source web applications for digital collections of historic clothing. I started this project in 2015 as a collaboration with [Arden Kirkland](https://www.ardenkirkland.com/work/), a digital librarian and former costume collection manager, after I read her article in _Dress_, ["Sharing Historic Costume Collections Online"](https://www.tandfonline.com/doi/abs/10.1080/03612112.2015.1130394).

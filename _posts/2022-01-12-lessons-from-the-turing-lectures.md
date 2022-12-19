@@ -2,7 +2,7 @@
 layout: post
 title:  "Lessons from the Turing lectures"
 date:   2022-01-12
-categories: reading
+description: Passages from the Turing lectures
 ---
 
 #### [Maurice Wilkes, "Computers then and now" (1967)](https://dl.acm.org/doi/abs/10.1145/321439.321440)

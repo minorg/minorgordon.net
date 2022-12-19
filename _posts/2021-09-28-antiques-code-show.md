@@ -2,7 +2,7 @@
 layout: post
 title:  "Antiques code show"
 date:   2021-09-28
-categories: reading
+description: Alumni event at the Department of Computer Science and Technology in Cambridge
 ---
 
 Over my lunch hour I watched ["The Antiques Code Show"](https://www.cst.cam.ac.uk/news/antiques-code-show), a webinar hosted by the Department of Computer Science and Technology in Cambridge. It was a series of interviews about notable projects in the history of the department. My favorite was the video about the [EDSAC](https://en.wikipedia.org/wiki/EDSAC) and [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes).
