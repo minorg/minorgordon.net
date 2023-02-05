@@ -6,13 +6,6 @@
                 <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">About</a>
             </li>
             <li class="nav-item"><a class="nav-link {% if page.url contains '/blog' %}active{% endif %}" href="{{ "/blog/index.html" | prepend: site.baseurl }}">Blog</a></li>
-<!--            <li class="nav-item dropdown">-->
-<!--                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Bildungsroman</a>-->
-<!--                <div class="dropdown-menu">-->
-<!--                    <a class="dropdown-item" href="//bildungsroman.minorgordon.net/Passion/">Passion</a>-->
-<!--                    <a class="dropdown-item" href="//bildungsroman.minorgordon.net/Thinker-Doer/">Thinker-Doer</a>-->
-<!--                </div>-->
-<!--            </li>-->
             <li class="nav-item"><a class="nav-link {% if page.url contains '/projects.html' %}active{% endif %}" href="{{ "/projects.html" | prepend: site.baseurl }}">Projects</a></li>
             <li class="nav-item"><a class="nav-link {% if page.url contains '/publications.html' %}active{% endif %}" href="{{ "/publications.html" | prepend: site.baseurl }}">Publications</a></li>
         </ul>
