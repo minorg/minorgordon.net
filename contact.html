@@ -13,15 +13,15 @@ title: Contact
             <form accept-charset="UTF-8" action="https://www.formbackend.com/f/8bc7bbf665501ba5" method="POST">
                 <div class="mb-4">
                     <label for="name" class="form-label"><b>Name</b> <span class="text-muted">(required)</span></label>
-                    <input autofocus type="text" class="form-control" id="name" required>
+                    <input autofocus type="text" class="form-control" id="name" name="name" required>
                 </div>
                 <div class="mb-4">
                     <label for="email" class="form-label"><b>Email</b> <span class="text-muted">(required)</span></label>
-                    <input type="email" class="form-control" id="email" placeholder="name@example.com" required>
+                    <input type="email" class="form-control" id="email" name="email" placeholder="name@example.com" required>
                 </div>
                 <div class="mb-4">
                     <label for="text" class="form-label"><b>How can I help?</b> <span class="text-muted">(required)</span></label>
-                    <textarea class="form-control" id="text" rows="3"></textarea>
+                    <textarea class="form-control" id="text" name="text" rows="3" required></textarea>
                 </div>
                 <div class="d-flex justify-content-center">
                     <button type="submit" class="btn btn-lg btn-primary w-50">Send</button>
