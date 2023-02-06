@@ -3,7 +3,7 @@
         <a class="navbar-brand" href="/">Minor Gordon</a>
         <ul class="navbar-nav me-auto">
             <li class="nav-item">
-                <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">About</a>
+                <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a>
             </li>
             <li class="nav-item"><a class="nav-link {% if page.url contains '/blog' %}active{% endif %}" href="{{ "/blog/index.html" | prepend: site.baseurl }}">Blog</a></li>
             <li class="nav-item"><a class="nav-link {% if page.url contains '/projects.html' %}active{% endif %}" href="{{ "/projects.html" | prepend: site.baseurl }}">Projects</a></li>
@@ -17,7 +17,7 @@
                 <a class="nav-link" href="https://github.com/minorg"><i class="bi bi-github"></i></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="mailto:mail@minorgordon.net"><i class="bi bi-envelope"></i></a>
+                <a class="nav-link" href="{{ "/contact.html" | prepend: site.baseurl }}"><i class="bi bi-envelope"></i></a>
             </li>
         </ul>
     </div>
