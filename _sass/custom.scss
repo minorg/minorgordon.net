@@ -1,8 +1,16 @@
-@import "_variables";
+$pink: #e73895;
+$primary: $pink;
+
 @import "bootstrap-5.2.3/scss/bootstrap.scss";
 
 blockquote {
   font-style: italic;
+}
+
+.btn-cta {
+  padding: 1rem;
+  font-size: 2rem;
+  border-radius: 0.5rem;
 }
 
 .carousel-control-prev-icon,

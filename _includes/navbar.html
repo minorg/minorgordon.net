@@ -1,24 +1,25 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-        <span class="navbar-brand"></span>
-        <ul class="navbar-nav me-auto">
-            <li class="nav-item">
-                <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a>
-            </li>
-            <li class="nav-item"><a class="nav-link {% if page.url contains '/blog' %}active{% endif %}" href="{{ "/blog/index.html" | prepend: site.baseurl }}">Blog</a></li>
-            <li class="nav-item"><a class="nav-link {% if page.url contains '/projects.html' %}active{% endif %}" href="{{ "/projects.html" | prepend: site.baseurl }}">Projects</a></li>
-            <li class="nav-item"><a class="nav-link {% if page.url contains '/publications.html' %}active{% endif %}" href="{{ "/publications.html" | prepend: site.baseurl }}">Publications</a></li>
-        </ul>
-        <ul class="navbar-nav ms-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="https://www.linkedin.com/in/minor-gordon/"><i class="bi bi-linkedin"></i></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="https://github.com/minorg"><i class="bi bi-github"></i></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{ "/contact.html" | prepend: site.baseurl }}"><i class="bi bi-envelope"></i></a>
-            </li>
-        </ul>
+            <div class="d-flex flex-grow-1 justify-content-center">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link {% if page.url contains '/blog' %}active{% endif %}" href="{{ "/blog/index.html" | prepend: site.baseurl }}">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link {% if page.url contains '/projects.html' %}active{% endif %}" href="{{ "/projects.html" | prepend: site.baseurl }}">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link {% if page.url contains '/publications.html' %}active{% endif %}" href="{{ "/publications.html" | prepend: site.baseurl }}">Publications</a></li>
+                </ul>
+            </div>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="https://www.linkedin.com/in/minor-gordon/"><i class="bi bi-linkedin"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/minorg"><i class="bi bi-github"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ "/contact.html" | prepend: site.baseurl }}"><i class="bi bi-envelope"></i></a>
+                </li>
+            </ul>
     </div>
 </nav>
