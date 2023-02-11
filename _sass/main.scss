@@ -1,0 +1,11 @@
+@import "_variables";
+@import "bootstrap-5.2.3/scss/bootstrap.scss";
+
+blockquote {
+  font-style: italic;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+  filter: invert(1)
+}
