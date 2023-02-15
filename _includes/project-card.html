@@ -1,7 +1,7 @@
-<div class="card text-center {{ include.class }}" style="width: 28rem">
+<div class="card text-center mb-4 {{ include.class }}" style="width: 28rem">
     <div class="card-body d-flex flex-column">
-        <div class="align-items-center d-flex flex-grow-1 justify-content-center">
-            <a href="{{ include.href }}" target="_blank"><img class="card-img" src="{{ include.img_src }}" /></a>
+        <div class="align-items-center d-flex flex-grow-1 justify-content-center" style="min-height: 400px">
+            <a href="{{ include.href }}" target="_blank"><img class="card-img" src="{{ include.img_src }}" style="max-height: 400px; max-width: 400px" /></a>
         </div>
         <h5 class="card-title mt-2"><a class="card-link" href="{{ include.href }}" target="_blank">{{ include.title }}</a></h5>
         <h6 class="card-subtitle">{{ include.subtitle }}</h6>
