@@ -6,7 +6,7 @@ description: "Puzzling over the DIKW pyramid"
 ---
 
 <p style="text-align: center">
-    <img src="/assets/images/2023-01-11-noetic-prism.png" alt="the DIKW pyramid" style="max-width: 25%" />
+    <img src="/assets/images/posts/2023-01-11-noetic-prism.png" alt="the DIKW pyramid" style="max-width: 25%" />
 </p>
 
 <p style="font-size: xx-small; text-align: center">
