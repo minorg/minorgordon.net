@@ -74,7 +74,7 @@ The next task was search selection, shown in the screenshot below. The user was 
 <figcaption class="mt-2" style="font-size: small">Search selection task: entry</figcaption>
 </figure>
 
-After selecting 5 search terms and clicking a button to proceed, the user was then asked to reorder the selected terms using the same mechanism as before.
+After selecting five search terms and clicking a button to proceed, the user was then asked to reorder the selected terms using the same mechanism as before.
 
 ###### Content task
 
