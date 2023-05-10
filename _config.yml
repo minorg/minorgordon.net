@@ -16,6 +16,7 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site of Minor Gordon
+domain: minorgordon.net
 github_username:  minorg
 permalink: blog/:year/:month/:day/:title:output_ext
 title: Minor Gordon
