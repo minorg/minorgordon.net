@@ -5,7 +5,7 @@ date:   2023-06-02
 description: Lessons learned from years of professional interviews
 ---
 
-Over the years I've been involved in many professional interviews, on both sides of the table. Some have been the kind of slog that tests your patience and equanimity. Some have been so exhilarating that I hardly noticed the time passing. The vast majority have been somewhere in between. If nothing else, interviews are a great way to learn about other people, what they do for a living, and what they're passionate about.
+Over the years I've been involved in many professional interviews, on both sides of the table. Some have been the kind of slog that tests your patience and equanimity. Some have been so exhilarating that I hardly noticed the time passing. The vast majority have been somewhere in between. If nothing else, interviews are an excellent way to learn about other people, what they do for a living, and what they're passionate about.
 
 Since I started my career I've gotten some great advice on how to conduct myself in interviews, from mentors, colleagues, and others. In this post I'll try to pass on three bits of wisdom that have helped me immensely.
 
