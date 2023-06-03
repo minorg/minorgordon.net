@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Paradicms website"
+categories: [projects]
 date:   2023-04-16
 description: "New website for the Paradicms project"
+layout: post
+title:  "Paradicms website"
 ---
 
 The [Paradicms project]({% post_url 2020-08-23-paradicms %}) has matured to the point where I believe it can be more than just [a vehicle for my learning]({% post_url 2020-05-23-personal-projects %}). It can stand on its own and be useful to other people.

@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "ThingsWorth"
+categories: [projects]
 date:   2019-03-19
 description: Outline of an ongoing personal project, ThingsWorth
+layout: post
+title:  "ThingsWorth"
 ---
 
 ThingsWorth is a personal project I've been working on sporadically for the last two years.  It's a way to describe the things you believe are worthwhile: worth learning, worth experiencing, worth sharing. What are those things? How do you learn them? Why should you?
