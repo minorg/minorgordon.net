@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Test early, test often, and keep your master branch stable"
+categories: [teaching]
 date:   2019-09-04
 description: Talk on software testing
+layout: post
+title:  "Test early, test often, and keep your master branch stable"
 ---
 
 This evening I gave a talk on [software testing](https://www.youtube.com/watch?v=eQuT8zVukr0) at RPI. I modeled it after an informal talk last year by the Director of Technology at Asemio, Floyd May.

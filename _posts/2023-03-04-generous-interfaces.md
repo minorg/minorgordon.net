@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Generous interfaces"
+categories: [learning]
 date:   2023-03-04
 description: "Learning about Mitchell Whitelaw's work"
+layout: post
+title:  "Generous interfaces"
 ---
 
 This week I stumbled across a reference to [Mitchell Whitelaw's](https://mtchl.net/) paper ["Generous Interfaces for Digital Cultural Collections"](https://mtchl.net/generous-interfaces-for-digital-cultural-collections/). The abstract:

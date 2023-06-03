@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Adjacent possible"
+categories: [learning]
 date:   2020-04-05
 description: "Reading Steven Johnson's <i>How We Got to Now: Six Innovations That Made the Modern World</i>"
+layout: post
+title:  "Adjacent possible"
 ---
 
 I've been reading Steven Johnson's _How We Got to Now: Six Innovations That Made the Modern World_. Johnson has a way of connecting events in the history of science and technology to tell interesting stories for a popular audience. I'm not sure how much of his narrative I really believe, but it's entertaining.

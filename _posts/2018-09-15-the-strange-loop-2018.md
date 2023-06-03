@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Strange Loop 2018"
+categories: [learning]
 date:   2018-09-15
 description: Interesting talks from The Strange Loop conference
+layout: post
+title:  "Strange Loop 2018"
 ---
 
 This weekend I went to [The Strange Loop](https://www.thestrangeloop.com/2018/sessions.html) in St. Louis, my first time there. I heard some great talks:

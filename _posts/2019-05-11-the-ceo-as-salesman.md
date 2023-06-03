@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  The CEO as Salesman
+categories: [learning]
 date:   2019-05-11
 description: Passage from "Portrait of the CEO as Salesman"
+layout: post
+title:  The CEO as Salesman
 ---
 
 I just read ["Portrait of the CEO as Salesman"](https://www.inc.com/magazine/19880301/8122.html) as part of a Coursera course. My favorite quote:

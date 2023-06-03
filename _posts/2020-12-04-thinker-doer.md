@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Thinker-doer"
 date:   2020-12-04
 description: What is a thinker-doer?
+layout: post
+title:  "Thinker-doer"
 ---
 
 > Thinkers are rare; doers are rarer; and thinker-doers are rarest.

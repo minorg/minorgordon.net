@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Business books"
+categories: [learning]
 date:   2022-02-14
 description: Reading business books
+layout: post
+title:  "Business books"
 ---
 
 I've been reading business books again in an effort to better understand the roles of my colleagues. A product manager at work recommended _Inspired: How to Create Tech Products Customers Love_. It's the kind of overview I was looking for, one that doesn't get too far into the weeds but isn't so superficial that you don't learn anything.

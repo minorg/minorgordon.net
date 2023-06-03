@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "The Compleat Developer"
+categories: [projects]
 date:   2022-08-01
 description: A new project to curate a list of books and articles about the non-technical side of working as a software engineer
+layout: post
+title:  "The Compleat Developer"
 ---
 
 I've been curating [a list of books and articles](https://github.com/minorg/compleat-developer) about the non-technical side of working as a software engineer in industry. Most of the books are ones I've mentioned before in posts here.

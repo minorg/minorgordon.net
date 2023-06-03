@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Material culture"
+categories: [learning]
 date:   2020-10-28
 description: "Notes on Jules David Prown's \"Mind in Matter: An Introduction to Material Culture Theory and Method\""
+layout: post
+title:  "Material culture"
 ---
 
 At this week's group meeting, staff and graduate students gave lightning talks on their favorite papers. I chose [Jules David Prown's "Mind in Matter: An Introduction to Material Culture Theory and Method"](https://www.jstor.org/stable/1180761?seq=1), published in the _Winterthur Portfolio_ in 1982.

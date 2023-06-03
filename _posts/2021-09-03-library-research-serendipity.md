@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Library research serendipity"
+categories: [learning]
 date:   2021-09-03
 description: 'Reading a paper from 1992, from 1992, "Chance in the midst of design: approaches to library research serendipity"'
+layout: post
+title:  "Library research serendipity"
 ---
 
 One of the [LD4 2021](https://sites.google.com/stanford.edu/2021ld4conf) presentations led me to an interesting paper from 1992, ["Chance in the midst of design: approaches to library research serendipity"](https://www.jstor.org/stable/25829128) by Daniel Liestman. The abstract:

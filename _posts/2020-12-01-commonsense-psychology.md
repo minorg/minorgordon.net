@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Commonsense psychology"
+categories: [learning]
 date:   2020-12-01
 description: Notes on Andrew Gordon and Jerry Hobbs's series of papers on commonsense psychology
+layout: post
+title:  "Commonsense psychology"
 ---
 
 I've been reading Andrew Gordon and Jerry Hobbs's [series of papers](https://people.ict.usc.edu/~gordon/cprp.html) on commonsense psychology. Their research agenda was to develop formal theories covering concepts related to human mental states and processes, with the eventual goal of supporting automated commonsense reasoning. The theories are sets of axioms in first-order predicate calculus.

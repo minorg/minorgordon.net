@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Interviewing"
 date:   2023-06-02
 description: Lessons learned from years of professional interviews
+layout: post
+title:  "Interviewing"
 ---
 
 Over the years I've been involved in many professional interviews, on both sides of the table. Some have been the kind of slog that tests your patience and equanimity. Some have been so exhilarating that I hardly noticed the time passing. The vast majority have been somewhere in between. If nothing else, interviews are an excellent way to learn about other people, what they do for a living, and what they're passionate about.

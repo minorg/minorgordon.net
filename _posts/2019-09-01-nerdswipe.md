@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "NerdSwipe"
+categories: [projects]
 date:   2019-09-01
 description: NerdSwipe personal project
+layout: post
+title:  "NerdSwipe"
 ---
 
 NerdSwipe is a personal project I've been working on for the last six months. It is a web application that presents users with random Wikipedia articles, book synopses, and other summaries from large corpuses. After reading a summary, the user can rate how interested he/she is in that topic.

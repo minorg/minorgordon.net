@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Business books"
+categories: [learning]
 date:   2021-06-16
 description: Reading business books
+layout: post
+title:  "Business books"
 ---
 
 In the last few months I've started going to the [library](https://www.brunswicklibrary.org/) again, after spending most of 2020 reading from my personal collection. It's been great to try a wider variety of books than the ones I tend to purchase for my collection. I don't own a lot of business books, for example, but I've been into reading them lately. Finding good ones is a challenge; most business books make a few relatively obvious points and fill out the text with fluff.

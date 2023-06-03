@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Writing to learn"
+categories: [learning]
 date:   2021-02-06
 description: "Reading Zinsser's <i>Writing to Learn: How to Write - and Think - Clearly About Any Subject at All</i>"
+layout: post
+title:  "Writing to learn"
 ---
 
 I've been sporadically reading William Zinsser's _Writing to Learn: How to Write - and Think - Clearly About Any Subject at All_. I've frequently recommended his _On Writing Well_ to students who are trying to improve their writing, but I had yet to read any of Zinsser's many other books.

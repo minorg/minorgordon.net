@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "The noetic prism"
+categories: [learning]
 date:   2023-01-11
 description: "Puzzling over the DIKW pyramid"
+layout: post
+title:  "The noetic prism"
 ---
 
 <p style="text-align: center">

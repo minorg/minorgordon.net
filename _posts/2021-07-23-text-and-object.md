@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Text and object"
+categories: [learning]
 date:   2021-07-23
 description: "Quote from Smith and Ungar's essay \"Programming as an Experience: The Inspiration for Self\""
+layout: post
+title:  "Text and object"
 ---
 
 > **Text and object**: There is a fundamental clash between the use of text and the use of direct manipulation. A

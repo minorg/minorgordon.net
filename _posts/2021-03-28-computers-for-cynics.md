@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Computers for Cynics"
+categories: [learning]
 date:   2021-03-28
 description: Ted Nelson's "Computers for Cynics" video series
+layout: post
+title:  "Computers for Cynics"
 ---
 
 I've been watching [Ted Nelson's](https://en.wikipedia.org/wiki/Ted_Nelson) "Computers for Cynics" video series, an alternative view of the history of computing by one of the men who shaped it.

@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "ThingsWorth"
+categories: [projects]
 date:   2020-10-25
 description: Migrating my ThingsWorth personal project to a simpler tech stack
+layout: post
+title:  "ThingsWorth"
 ---
 
 I've been thinking about migrating some of my older personal projects to Next.js, which I'm using on [Paradicms]({% post_url 2020-08-23-paradicms %}). I've come to appreciate the ease of development and hosting.

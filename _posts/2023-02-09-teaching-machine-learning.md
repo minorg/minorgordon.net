@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Teaching Machine Learning"
+categories: [teaching]
 date:   2023-02-09
 description: "Experiences teaching Machine Learning classes at RPI"
+layout: post
+title:  "Teaching Machine Learning"
 ---
 
 For the last month I've been teaching two courses at the Lally School of Management at RPI, one on Applied Analytics and Predictive Modeling and the other an Introduction to Machine Learning Applications. Most of the students are in the first year of an MBA or RPI's MS in Business Analytics, although about a third are senior-level undergraduates.

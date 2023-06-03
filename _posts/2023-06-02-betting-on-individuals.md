@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Betting on individuals"
 date:   2023-06-02
 description: Considering people as individuals and having a healthy skepticism of credentials
+layout: post
+title:  "Betting on individuals"
 ---
 
 One of the most valuable things my father taught me was the importance of focusing on individual people and their specific qualities.  You can cultivate a relationship with a person. You can trust and rely on an individual -- or not. You have to come to your own conclusions by observing what the person says and does and what other people say.

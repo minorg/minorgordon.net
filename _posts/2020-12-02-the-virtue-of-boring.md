@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "The virtue of boring"
+categories: [learning]
 date:   2020-12-02
 description: Passage from the Google <i>Site Reliability Engineering</i> book
+layout: post
+title:  "The virtue of boring"
 ---
 
 > Unlike just about everything else in life, 'boring' is actually a  positive attribute when it comes to software! We don’t want our  programs to be spontaneous and interesting; we want them to stick to  the script and predictably accomplish their business goals. In the  words of Google engineer Robert Muth, 'Unlike a detective story, the lack of excitement, suspense, and puzzles is actually a desirable property of source code.'

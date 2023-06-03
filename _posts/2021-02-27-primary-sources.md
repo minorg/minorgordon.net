@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Primary sources"
+categories: [learning]
 date:   2021-02-27
 description: Understanding computer science through seminal papers
+layout: post
+title:  "Primary sources"
 ---
 
 This month the MIT press published [_Ideas That Created the Future: Classic Papers of Computer Science_](https://mitpress.mit.edu/books/ideas-created-future), which collects papers in computer science that map the evolution of the field.

@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Strange Loop 2019"
+categories: [learning]
 date:   2019-11-28
 description: Interesting talks from The Strange Loop conference
+layout: post
+title:  "Strange Loop 2019"
 ---
 
 I didn't make [The Strange Loop](https://www.thestrangeloop.com/2019/sessions.html) this year, unfortunately. I've been watching some of the talks on YouTube.

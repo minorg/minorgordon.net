@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Wheeler lectures"
+categories: [learning]
 date:   2020-05-04
 description: Enjoying computer science war stories
+layout: post
+title:  "Wheeler lectures"
 ---
 
 During my lunch hours I've been watching videos of the [Wheeler lectures](https://www.cst.cam.ac.uk/seminars/wheeler). These started several years after I graduated. I only learned about them a few months ago.

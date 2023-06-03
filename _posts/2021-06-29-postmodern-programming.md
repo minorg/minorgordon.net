@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Postmodern programming"
+categories: [learning]
 date:   2021-06-29
 description: Reading papers from the Onward! Symposium on New Ideas in Programming and Reflections on Software
+layout: post
+title:  "Postmodern programming"
 ---
 
 A few years ago I stumbled across a paper by one of my former classmates, Stephen Kell, titled ["Some were meant for C: the endurance of an unmanageable language"](https://2017.onward-conference.org/details/onward-2017-essays-2017/3/Some-Were-Meant-For-C-The-endurance-of-an-unmanageable-language). That was the first I'd heard of the [Onward! Symposium on New Ideas in Programming and Reflections on Software](https://www.sigplan.org/Conferences/Onward/) at SPLASH/OOPSLA. Since then I've been sporadically picking my way through the proceedings, starting with the essays tracks and the Most Notable Paper Awards.

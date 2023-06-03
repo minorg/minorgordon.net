@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Knowledge Graph Conference"
+categories: [learning]
 date:   2022-05-09
 description: Interesting talks from the Knowledge Graph Conference
+layout: post
+title:  "Knowledge Graph Conference"
 ---
 
 Last week I virtually attended the [Knowledge Graph Conference](https://www.knowledgegraph.tech/). Among the company pitches and academic minutiae there were a few thoughtful and creative talks:

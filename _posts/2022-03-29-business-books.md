@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Business books"
+categories: [learning]
 date:   2022-03-29
 description: Reading business books
+layout: post
+title:  "Business books"
 ---
 
 Since my [last post]({% post_url 2022-02-14-business-books %}) I've continued to read business books, and have found a few more I enjoy:

@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Bildungsroman"
+categories: [projects]
 date:   2021-12-30
 description: Exploring digital exhibitions with curated content
+layout: post
+title:  "Bildungsroman"
 ---
 
 Since my [last post about my personal projects]({% post_url 2021-04-24-learning %}) I've been adapting [paradicms]({% post_url 2020-08-23-paradicms %}) to support digital exhibitions. One challenge with this type of user-facing project is finding or creating test data that pushes the interface in a realistic way. I experimented with existing freely-available exhibitions from the web but wasn't satisfied with the limitations of that approach. Eventually I decided to curate content of my own, primarily from Wikipedia.

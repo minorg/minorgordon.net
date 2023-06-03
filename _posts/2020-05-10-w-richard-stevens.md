@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "W. Richard Stevens"
 date:   2020-05-10
 description: The author of my favorite technical book
+layout: post
+title:  "W. Richard Stevens"
 ---
 
 [W. Richard Stevens](https://en.wikipedia.org/wiki/W._Richard_Stevens) was the author of my favorite technical book, [_UNIX Network Programming Volume 1: The Sockets Networking API_](https://en.wikipedia.org/wiki/UNIX_Network_Programming), second edition. I was immersed in that book for years, while I was working on high-performance web servers. His [_TCP/IP Illustrated_](https://en.wikipedia.org/wiki/TCP/IP_Illustrated) volumes are also fantastic.

@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Bill Joy interview"
+categories: [learning]
 date:   2020-05-05
 description: Passages from a 2003 <i>Wired</i> interview with Bill Joy
+layout: post
+title:  "Bill Joy interview"
 ---
 
 In 2003 _Wired_ [interviewed Bill Joy](https://www.wired.com/2003/12/billjoy/) after his retirement from Sun. I remember reading this article when it came out; I probably picked it up from Slashdot. There's the striking photo, and a few passages that have stuck in my mind in the years since.

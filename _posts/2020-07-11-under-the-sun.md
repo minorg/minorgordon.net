@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Under the sun"
+categories: [learning]
 date:   2020-07-11
 description: Why I study the history of science and technology
+layout: post
+title:  "Under the sun"
 ---
 
 "There is nothing new under the sun, but there are lots of old things we don't know." - Ambrose Bierce

@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Explainability"
+categories: [learning]
 date:   2020-06-06
 description: Reflecting on Robert Hoffman's talk about explainable artificial intelligence
+layout: post
+title:  "Explainability"
 ---
 
 I've been following the [Stanford CS 520 seminar on knowledge graphs](https://web.stanford.edu/class/cs520/) for the last few months. There have been some great talks about cutting-edge work, but the one that impressed me the most was [Robert Hoffman discussing explainable artificial intelligence](https://youtu.be/VRe5yOjmuEY?t=3734). It's an area I've been working in recently. Hoffman makes a lot of sensible points about the need for user-centered design in AI-driven systems. Too often the user's point of view is considered an afterthought compared to what's interesting to engineers and researchers ("designer-centered design").

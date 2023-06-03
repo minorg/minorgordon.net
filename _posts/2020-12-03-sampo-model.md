@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Sampo model"
+categories: [projects]
 date:   2020-12-03
 description: Semantic portals for digital humanities
+layout: post
+title:  "Sampo model"
 ---
 
 I've been slowly making my way through the publications of the [Semantic Computing Research Group (SeCo)](https://seco.cs.aalto.fi/) in Helsinki, focusing on Eero Hyvönen's work on semantic portals ("sampos") for digital humanities: CultureSampo, BookSampo, BiographySampo, et al. His 2020 paper "'Sampo' Model and Semantic Portals for Digital Humanities on the Semantic Web" is a succinct overview of these projects.

@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "The future of programming"
+categories: [learning]
 date:   2021-09-03
 description: Thoughts on Bret Victor's talk on "The Future of Programming"
+layout: post
+title:  "The future of programming"
 ---
 
 [Bret Victor's](https://en.wikipedia.org/wiki/Bret_Victor) [web site](http://worrydream.com/) is a treasure trove. Since I [chanced upon it a few weeks ago]({% post_url 2021-08-09-personal-mastery %}) I've been savoring my way through his talks and essays.

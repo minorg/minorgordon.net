@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Mike Gordon"
+categories: [learning]
 date:   2021-07-30
 description: Rediscovering Professor Gordon's web site
+layout: post
+title:  "Mike Gordon"
 ---
 
 This week I read ["A history of Haskell: being lazy with class"](https://dl.acm.org/doi/10.1145/1238844.1238856), a long paper from the third History of Programming Languages conference in 2007. (Simon Peyton-Jones gave the [accompanying talk](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/) at the conference. His talks are awesome.)

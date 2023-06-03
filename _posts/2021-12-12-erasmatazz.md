@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Erasmatazz"
+categories: [learning]
 date:   2021-12-12
 description: Exploring Chris Crawford's web site
+layout: post
+title:  "Erasmatazz"
 ---
 
 I've been reading the essays on [Chris Crawford's](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)) website, [Erasmatazz](https://erasmatazz.com/). There is a lot to learn there, especially in the [How To Think](https://erasmatazz.com/personal/self/how-to-think-v-30/index.html) and [How to Make the Computer of a Medium of Artistic Expression](https://erasmatazz.com/library/course-description-2018/index.html) series. I also appreciated his essays on [Programmers and Aging](https://erasmatazz.com/library/course-description-2018/index.html) and [Culling My Library](https://erasmatazz.com/personal/experiences/culling-my-library.html), which resonated with some of my own experiences, and the many book recommendations scattered throughout his writing.

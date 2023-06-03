@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Haskell improv"
+categories: [learning]
 date:   2021-07-01
 description: Revisiting Erik Meijer's <i>Introduction to Functional Programming</i> course on edX
+layout: post
+title:  "Haskell improv"
 ---
 
 For the last few weeks I've been revisiting [Erik Meijer's](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)) [_Introduction to Functional Programming_ course](https://www.edx.org/course/introduction-to-functional-programming) on edX as part of my effort to learn Haskell.

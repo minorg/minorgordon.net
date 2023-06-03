@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "My colors are blush and bashful"
+categories: [projects]
 date:   2023-02-10
 description: "Home page revamp"
+layout: post
+title:  "My colors are blush and bashful"
 ---
 
 [Teaching this semester]({% post_url 2023-02-09-teaching-machine-learning %}) hasn't left a lot of time for personal projects, so I've been focusing on things I can get done in short order, like the [knowledge graph curator web extension]({% post_url 2023-02-02-knowledge-graph-curator %}). Redoing my home page -- [the index page on this site, minorgordon.net]({{ "/" | prepend: site.baseurl }}) -- was another small item on my TODO list. It's one of the first pages you see if you search for my name, but the page wasn't representing me very well.

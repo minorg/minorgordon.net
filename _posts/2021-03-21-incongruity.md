@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Incongruity"
+categories: [learning]
 date:   2021-03-21
 description: Passage from Thomas Kuhn's <i>The Structure of Scientific Revolutions</i>
+layout: post
+title:  "Incongruity"
 ---
 
 In _The Structure of Scientific Revolutions_ Kuhn references a 1949 paper by Jerome Bruner and Leo Postman titled ["On the Perception of Incongruity: A Paradigm"](https://psychclassics.yorku.ca/Bruner/Cards/). It describes an experiment in the psychology of perception.
