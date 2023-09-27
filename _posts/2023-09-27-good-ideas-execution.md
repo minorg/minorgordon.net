@@ -19,7 +19,7 @@ What do you need to execute an idea well?
 * The right skills
 * The right talents
 * The right circumstances
-* Care
+* The right attitude
 
 Knowledge is acquirable through self-study and transferable from other people. Skills are acquirable through practice but not transferable. Talents are largely immutable in adults. Circumstances can be changed.
 
@@ -27,8 +27,8 @@ As for the last point: do you care to do things well? In _Zen and the Art of Mot
 
 > Care and Quality are internal and external aspects of the same thing. A person who sees Quality and feels it as he works is a person who cares. A person who cares about what he sees and does is a person who’s bound to have some characteristic of quality.
 
-The best students I've worked with have talent, care, and circumstances that encourage them to learn and grow. They are eager to gain knowledge and skills through hands-on projects, and I deeply enjoy helping them to do that.
+The best students I've worked with have the right attitude, talent, and circumstances that encourage them to learn and grow. They are eager to gain knowledge and skills through hands-on projects, and I deeply enjoy helping them to do that.
 
-Those same students will accumulate knowledge and skills even more rapidly once they start working, but often become complacent in the process. By the time you encounter them 5-10 years out of school, many have settled into a comfortable mediocrity. They still have talent, but their knowledge and skills have gotten stale as their care has waned.
+Those same students will accumulate knowledge and skills even more rapidly once they start working, but often become complacent in the process. By the time you encounter them 5-10 years out of school, many have settled into a comfortable mediocrity. They still have talent, but their knowledge and skills have gotten stale as their attitude has changed.
 
-When I'm interviewing candidates for a job, being interviewed myself, or just meeting prospective colleagues and collaborators for the first time, I look for evidence of "care" first. Circumstances usually allow people to learn new knowledge and skills as they go, but people who don't care that much are unlikely to make the effort. Clearly there are situations where you need someone who already possesses certain knowledge and skills, but without care the necessary knowledge and skills are still insufficient.
+When I'm interviewing candidates for a job, being interviewed myself, or just meeting prospective colleagues and collaborators for the first time, I look for evidence of the right attitude first. Circumstances usually allow people to learn new knowledge and skills as they go, but people who don't care that much are unlikely to make the effort. Clearly there are situations where you need someone who already possesses certain knowledge and skills, but without the right attitude the necessary knowledge and skills are still insufficient.
