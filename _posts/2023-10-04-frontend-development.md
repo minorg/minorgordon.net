@@ -15,4 +15,8 @@ I didn't do frontend development. The tools alone were enough to put me off of i
 
 Eventually the frontend tools got better. TypeScript made JavaScript palatable to developers who don't think debugging mysterious issues in a browser console is a fun way to spend an evening. Frameworks like React mitigated some of the pain of dealing with cross-platform compatibility. New library support for old design patterns like copy-on-write and one-way data flows eliminated common bugs and enabled saner decomposition.
 
-In the interim I also realized that my refusal to do frontend development was holding me back. 
+In the interim I also realized that my refusal to do frontend development was holding me back. I had good ideas that I [couldn't execute]({% post_url 2023-09-27-good-ideas-execution %}) without frontend development skills.
+
+A comprehensive data model, a clean API, and clever algorithms on the backend of a system are rarely worth much in the absence of a top-notch frontend that takes advantage of them. The vast majority of users judge your work by what they see on the screen. If the user interface doesn't do its job well, does the rest really matter?
+
+Users also tend to be less forgiving of 80/20, "good enough" solutions that might be sufficient in an invisible backend system. The detail work of the last 20% is often the difference between making a negative and a positive impression on the user.
