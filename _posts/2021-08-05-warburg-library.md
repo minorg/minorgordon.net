@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Warburg Library"
+date:   2021-08-05
+categories: [learning]
+description: Passage about the Warburg Library
+---
+
+> ... Cassirer had recently discovered his true thinking space. In his case it was not a lonely cabin on a hillside in the Black Forest, but the library of a private scholar of cultural science who had collected several tens of thousands of rare studies in intellectual and scientific history on his shelves, and organized them in a very idiosyncratic way. This was the [library of Abraham ("Aby") Moritz Warburg](https://en.wikipedia.org/wiki/Warburg_Haus,_Hamburg), the scion of one of the world's most influential banking families, which Cassirer first entered in the winter of 1920 and which for the next ten years would be the site of inspiration for his work.
+> 
+> He was in shock: "I can never return to this place, or I will lose myself forever in this labyrinth," Cassierer murmured after Dr. Fritz Saxl, head librarian of the Warburg collection, led him past the shelves and stacks, elegantly if eccentrically arranged. The richness of this literature as well as the precious rarity of the volumes acquired from all over the world was one thing. But for Cassirer what was miraculous was the idea of this library itself, and the intellectual objective behind its compilation and organization.
+>
+> ...
+> 
+> ... on his first visit Cassirer had to overcome the uncanny and fantastical feeling that this library had been designed and organized precisely according to the strictures and emphases that had governed his own work since those fateful streetcar journeys of 1917: the arrangement of the Warburg Library corresponded exactly, in terms of both form and content, to his own philosophy of symbolic forms.
+> 
+> As if that weren't enough, in one sense the library went a step further than the systematic architectural plan that was Cassirer's work. Rather than proceed in a chronological fashion, according to the development of culture from its cultic beginnings in totem, rite, and myth through to the modern natural sciences in one continuous arc culminating in true knowledge of the world, what prevailed on the shelves of Warburg's library was the internal organizational principle of "good neighborliness." It saw works from a tremendous variety of disciplines and eras placed side by side in such a way as to suggest scarcely imaginable connections between them, potential similarities of approach, and lines of influence that seem inconceivable. Consequently, foundational works of chemistry rubbed shoulders with books on alchemy; studies in ancient haruspicy with books about astrology and modern algebra.
+> 
+> Warburg's collection is founded on the idea of a continuous cultural non-simultaneity of the simultaneous, in which a great variety of approaches from a great variety of sources influence and also contradict one another. At the same time, his taxonomic system is based on the conviction that there is something like an unconscious cultural memory that lurks behind the various epochs and the objects of their scholars' attention, with significant though subtle effect. Symbols and people -- and this was Warburg's central idea -- constantly educate one another, and the symbols with which we think, speak, curse, and pray, with which we can make predictions, inquire, and research -- in short, find our orientation in the world -- are generally much older and in a sense wiser than we, the creatures who use these symbols only in our own time and appropriate them in line with our own interests. So much could be revealed, if only the innumerable tacit connections and alignments among these symbols could be given a voice. It was only logical, then, that Warburg should have placed his library under the tutelage of the Greek goddess of memory, Mnemosyne.
+> 
+> From his first day in that library, Cassirer's way of thinking grew closer to the ordering of its vision of culture. In small steps at first, but then continuously and with ever greater intensity. On Warburg's shelves there were no clearly demarcated individual disciplines, areas of study, or even clearly defined realms of culture. It was a space completely free from taboo, and its arrangement encouraged the visitor to embark on a glorious search for ideas as yet unexplored -- whether from the future, the present, or the past.
+
+Wolfram Eilenberger, _Time of the Magicians: Wittgenstein, Benjamin, Cassirer, Heidegger, and the Decade that Reinvented Philosophy_, pp. 128-131
