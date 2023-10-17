@@ -2,7 +2,7 @@
 date:   2020-06-13
 description: One of my intellectual heroes
 layout: post
-categories: [opinions]
+categories: [learning]
 title:  "Andrew Odlyzko"
 ---
 
