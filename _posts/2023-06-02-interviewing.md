@@ -2,6 +2,7 @@
 date:   2023-06-02
 description: Lessons learned from years of professional interviews
 layout: post
+categories: [opinions]
 title:  "Interviewing"
 ---
 

@@ -2,6 +2,7 @@
 date:   2021-10-23
 description: Priorities
 layout: post
+categories: [opinions]
 title:  "What makes a job good?"
 ---
 

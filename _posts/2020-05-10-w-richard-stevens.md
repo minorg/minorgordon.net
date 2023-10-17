@@ -2,6 +2,7 @@
 date:   2020-05-10
 description: The author of my favorite technical book
 layout: post
+categories: [learning]
 title:  "W. Richard Stevens"
 ---
 

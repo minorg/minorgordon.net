@@ -2,6 +2,7 @@
 date:   2020-05-23
 description: Using personal projects to learn and experiment
 layout: post
+categories: [learning]
 title:  "Personal projects"
 ---
 

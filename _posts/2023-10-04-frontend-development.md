@@ -2,6 +2,7 @@
 date:   2023-10-04
 description: My journey to frontend development
 layout: post
+categories: [learning]
 title:  "Frontend development"
 ---
 

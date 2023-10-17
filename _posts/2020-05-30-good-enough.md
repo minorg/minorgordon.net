@@ -2,6 +2,7 @@
 layout: post
 title:  "Good enough"
 date:   2020-05-30
+categories: [opinions]
 description: "The space between \"good enough\" and gold-plating "
 ---
 

@@ -2,6 +2,7 @@
 date:   2021-02-14
 description: The changing nature of optimal experiences in my work
 layout: post
+categories: [opinions]
 title:  "Optimal experience"
 ---
 

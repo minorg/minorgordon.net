@@ -2,6 +2,7 @@
 date:   2023-09-27
 description: Ruminating on the relative abundance of good ideas compared to good execution
 layout: post
+categories: [opinions]
 title:  "Good ideas vs. good execution"
 ---
 

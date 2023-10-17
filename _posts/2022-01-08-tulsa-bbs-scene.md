@@ -2,6 +2,7 @@
 date:   2022-01-08
 description: Reminisces of the Tulsa BBS scene in the early 1990s
 layout: post
+categories: [opinions]
 title:  "Tulsa BBS scene"
 ---
 

@@ -2,6 +2,7 @@
 date:   2023-09-30
 description: Focusing on the personal and relational
 layout: post
+categories: [opinions]
 title:  "Resisting the impersonal"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Code is for other people to read"
 date:   2020-05-02
+categories: [opinions]
 description: Thoughts on consistency in software engineering
 ---
 

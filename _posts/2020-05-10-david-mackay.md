@@ -2,6 +2,7 @@
 date:   2020-05-10
 description: A professional role model
 layout: post
+categories: [learning]
 title:  "David MacKay"
 ---
 

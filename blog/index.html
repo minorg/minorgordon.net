@@ -12,6 +12,7 @@ title: Blog
                     <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab" aria-selected="true">Home</button>
                 </li>
                 {% include blog-category-nav-item.html category="learning" text="Learning" %}
+                {% include blog-category-nav-item.html category="opinions" text="Opinions" %}
                 {% include blog-category-nav-item.html category="projects" text="Projects" %}
                 {% include blog-category-nav-item.html category="teaching" text="Teaching" %}
                 <li class="nav-item" role="presentation">
@@ -23,6 +24,7 @@ title: Blog
                     {% include blog-category-table.html category="" %}
                 </div>
                 {% include blog-category-tab-pane.html category="learning" %}
+                {% include blog-category-tab-pane.html category="opinions" %}
                 {% include blog-category-tab-pane.html category="projects" %}
                 {% include blog-category-tab-pane.html category="teaching" %}
                 <div class="tab-pane fade" id="technical-tab-pane" role="tabpanel" aria-labelledby="technical-tab-pane">
