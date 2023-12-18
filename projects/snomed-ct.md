@@ -3,7 +3,7 @@ layout: page
 ---
 
 <h4 style="text-align: center">Transforming SNOMED CT into SKOS and SHACL</h4>
-<h6 style="text-align: center">In collaboration with Ralph Hodgson</h6>
+<h6 style="text-align: center">Minor Gordon and Ralph Hodgson</h6>
 
 <br/>
 
@@ -26,6 +26,8 @@ The Resource Description Framework (RDF) is a W3C-standard model for data interc
 In order for these systems to work with SNOMED CT, the terminology must be transformed from its bespoke tabular format into RDF and SHACL. The Simple Knowledge Organization System (SKOS) provides a standard way to represent knowledge organization systems such as SNOMED CT in RDF.
 
 We have developed an automatic process for transforming SNOMED CT releases into RDF and SHACL for downstream consumption by tools such as TopBraid EDG. In the following sections we will give a brief overview of the SNOMED CT data model, identify some of the challenges in transforming SNOMED CT into RDF and SHACL, and describe our transformation process in detail.
+
+<br/>
 
 ##### SNOMED CT
 
@@ -50,6 +52,8 @@ Concept-attribute relationships are further organized into *relationship groups*
 
 Relationship types such as is-a and "Finding site" are considered concepts themselves, with their own hierarchy. For example, all attribute relationship types descend from the same root concept. This allows relationship types to reuse the same machinery afforded to other concepts, such as multilingual descriptions.
 
+<br/>
+
 ##### The transformation process
 
 Conceptually the relationships outlined in the preceding section can be represented as triples:
@@ -68,66 +72,30 @@ The figure below illustrates the transformation process.
 <figcaption class="mt-2" style="font-size: small">SNOMED CT transformation process</figcaption>
 </figure>
 
+<br/>
+
 ###### Step 1: mapping SNOMED CT release files to Python data structures
 
 Tab-separated value (TSV) files are extracted from a SNOMED CT release .zip. The rows in different files are mapped directly to low-level data structures in Python, like the following `Rf2Concept` [Pydantic](https://pydantic.dev/) model corresponding to a row in the RF2 concepts file:
 
 ```py
-from pydantic import Field
-
-from shared_snomed_ct.models._base_model import _BaseModel
+from pydantic import BaseModel, Field
 
 
-class _Rf2BaseModel(_BaseModel):
-    """
-    Model of fields shared by all RF2 concrete models.
-    """
-
-    active: int = Field(
-        ...,
-        description="""\
-The state of the identified model as at the specified effectiveTime .
-
-If active = 1 (true) the model is part of the current version of the set, if active = 0 (false) the model is not part of the current version of the set.""",
-    )
-
-    effectiveTime: int = Field(
-        ...,
-        description="""\
-The inclusive date or time at which this version of the identified model  became the current version.
-
-Note: In distribution files the effectiveTime should follow the short ISO date format (YYYYMMDD) and should not include the hours, minutes, seconds or timezone indicator.""",
-    )
-
-    moduleId: int = Field(
-        ...,
-        description="""\
-Identifies the SNOMED CT module that contains this reference set member as at the specified effectiveTime .
-
-The value must be a subtype of 900000000000443000 | Module (core metadata concept)| within the metadata hierarchy.""",
-    )
-
-
-class _Rf2Component(_Rf2BaseModel):
-    """
-    Model of fields shared by all RF2 components (concepts, descriptions, et al.)
-    """
-
-    id: int = Field(..., ge=1)  # noqa: A003
-
-
-class Rf2Concept(_Rf2Component):
+class Rf2Concept(BaseModel):
     """
     Model of rows in the RF2 Concept file.
     https://confluence.ihtsdotools.org/display/DOCRELFMT/4.2.1+Concept+File+Specification?src=sidebar
     """
 
-    definitionStatusId: int = Field(
-        ...,
-        description="""\
-Specifies if the concept version is primitive or defined. Set to a descendant of 900000000000444006 | Definition status| in the metadata hierarchy.""",
-    )
+    active: int
+    effectiveTime: int
+    definitionStatusId: int
+    id: int = Field(..., ge=1)
+    moduleId: int
 ```
+
+<br/>
 
 ###### Step 2: indexing low-level data structures into compact index data structures
 
@@ -146,6 +114,10 @@ class IndexedRelationship:
     effective_time: int
     relationship_group: int
 ```
+
+
+<br/>
+
 
 ###### Step 3: starting from a leaf concept, recursively and lazily transform concepts to Python rdflib Graphs: one graph for SKOS instances, one for SHACL shapes.
 
@@ -225,7 +197,9 @@ A single SNOMED CT concept may have multiple mappings into RDF. For example, the
 
 SNOMED CT descriptions (human-readable terms) of a concept are mapped to RDF Schema `label`, SKOS `prefLabel`, SKOS `altLabel`, or SHACL `name` statements depending on the type of the description (definition, name, synonym), its acceptability (acceptable, preferred, unacceptable), and the mapping(s) of the concept from the table above.
 
-##### Step 4: serialize the rdflib `Graph`s to files in Turtle syntax.
+<br/>
+
+##### Step 4: serialize the rdflib Graphs to files in Turtle syntax.
 
 Finally, the resulting RDF triples are serialized to two different files:
 
