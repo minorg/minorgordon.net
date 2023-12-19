@@ -46,7 +46,7 @@ The figure below shows a representative SNOMED concept we will use for demonstra
 
 Concept 53627009 is described by the English-language term Closed fracture of radius AND ulna (disorder)". The "(disorder)" suffix in the description is a [semantic tag](https://confluence.ihtsdotools.org/display/DOCEG/Semantic+Tag) indicating the domain to which the concept belongs.
 
-Concept 53627009 is part of a hierarchy of other concepts linked by is-a (child->parent) relationships, indicated by blue arrows in the figure. A concept may also have *attribute* relationships (shown as red arrows) with other concepts or scalars as values. In the example, "Closed fracture of radius AND ulna (disorder)" has a "Finding site" attribute of "Bone structure of radius (body structure)", corresponding to concept 62413002. 
+Concept 53627009 is part of a hierarchy of other concepts linked by is-a (child->parent) relationships, indicated by blue arrows in the figure. A concept may also have *attribute* relationships (shown as red arrows) with other concepts or scalars as values. (SNOMED CT refers to the latter as Concrete Values). In the example, "Closed fracture of radius AND ulna (disorder)" has a "Finding site" attribute of "Bone structure of radius (body structure)", corresponding to concept 62413002. 
 
 Concept-attribute relationships are further organized into *relationship groups*, which indexed per-concept from 0. The attribute relationship groups for concept 53627009 are shown in the figure as dotted boxes and in the official SNOMED CT browser as nested boxes.
 
@@ -171,23 +171,23 @@ The table below summarizes the mappings:
             <td><a href="https://www.w3.org/TR/rdf-schema/">RDF Schema</a> <code>Class</code>, SHACL <code>NodeShape</code></td>
         </tr>
         <tr>
-            <td>Concepts at depth 1</td>
+            <td>Concept at depth 1 in the polyhierarchy</td>
             <td>RDF Schema <code>Class</code>, SHACL <code>NodeShape</code></td>
         </tr>
         <tr>
-            <td>Concepts that correspond to semantic tags (e.g., <a href="https://browser.ihtsdotools.org/?perspective=full&conceptId1=64572001&edition=MAIN/2023-12-01&release=&languages=en">Disease (disorder) 64572001</a></td>
+            <td>Concept corresponding to semantic tags (e.g., <a href="https://browser.ihtsdotools.org/?perspective=full&conceptId1=64572001&edition=MAIN/2023-12-01&release=&languages=en">Disease (disorder) 64572001</a></td>
             <td>RDF Schema <code>Class</code>, SHACL <code>NodeShape</code></td>
         </tr>
         <tr>
-            <td>Concepts corresponding to attribute relationship types</td>
+            <td>Concept corresponding to an attribute relationship type</td>
             <td>RDF Schema <code>Property</code>, SHACL <code>PropertyShape</code></td>
         </tr>
         <tr>
-            <td>Concepts not corresponding to attribute relationship types</td>
+            <td>Concept not corresponding to attribute relationship types</td>
             <td>SKOS <code>Concept</code>, SHACL <code>NodeShape</code></td>
         </tr>
         <tr>
-            <td>Attribute relationship groups</td>
+            <td>Attribute relationship group</td>
             <td>SHACL <code>NodeShape</code></td>
         </tr>
     </tbody>
@@ -196,6 +196,8 @@ The table below summarizes the mappings:
 A single SNOMED CT concept may have multiple mappings into RDF. For example, the root concept is mapped to an RDF Schema `Class`, a SHACL `NodeShape`, and a SKOS `Concept`. Each target has its own subject IRI, so that the RDF Schema `Class` corresponding to the SNOMED CT root concept has a different IRI than the SKOS `Concept` mapped from the same.
 
 SNOMED CT descriptions (human-readable terms) of a concept are mapped to RDF Schema `label`, SKOS `prefLabel`, SKOS `altLabel`, or SHACL `name` statements depending on the type of the description (definition, name, synonym), its acceptability (acceptable, preferred, unacceptable), and the mapping(s) of the concept from the table above.
+
+Transforming attribute relationship groups presents a challenge. In principle, any SNOMED CT concept can have any number of attributes, arbitrarily grouped. Mapping every concept-relationship group combination to a SHACL `NodeShape` leads to a combinatorial explosion (the number of concepts multiplied by the number of relationship groups per concept). Few SHACL processors are prepared to deal with hundreds of thousands of `NodeShape`s. Fortunately, in practice many concepts have the same attribute (types) aligned with the same relationship group numbers, so there can be fewer relationship group `NodeShape` than there are relationship group instances.
 
 <br/>
 
