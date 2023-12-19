@@ -8,7 +8,7 @@ title:  "Horseshoes, hand grenades, and the sunk cost fallacy"
 Have you ever heard someone say a project is "almost complete, except for a few details"? That "most of the work has been done"? You probably pictured something like this:
 
 <div class="text-center">
-    <img src="/assets/images/posts/2023-09-24-first-image.svg" alt="First image" style="max-height: 50vh" />
+    <img src="/img/posts/2023-09-24-first-image.svg" alt="First image" style="max-height: 50vh" />
 </div>
 
 <hr style="margin-bottom: 48px; margin-top: 48px"/>
@@ -16,7 +16,7 @@ Have you ever heard someone say a project is "almost complete, except for a few 
 What if the reality is this?
 
 <div class="text-center">
-    <img src="/assets/images/posts/2023-09-24-second-image.svg" alt="Second image" style="max-height: 50vh" />
+    <img src="/img/posts/2023-09-24-second-image.svg" alt="Second image" style="max-height: 50vh" />
 </div>
 
 <div style="margin-bottom: 48px; margin-top: 48px"/>

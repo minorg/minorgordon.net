@@ -5,7 +5,7 @@ layout: page
 <h4 style="text-align: center">SearchSci</h4>
 
 <figure class="my-4" style="text-align: center">
-<img src="/assets/images/projects/searchsci/searchsci-landing.png" style="max-width: 100%" />
+<img src="/img/projects/searchsci/searchsci-landing.png" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">SearchSci landing page</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Experiment subjects were recruited on social media as well as from Mechanical Tu
 Before starting the experiment's tasks, users were asked to complete an entrance survey in Qualtrics (shown below). The survey was embedded in an `iframe` in order to maintain a consistent look and feel throughout the experiment.
 
 <figure class="my-4" style="text-align: center">
-<img src="/assets/images/projects/searchsci/searchsci-qualtrics-survey.png" style="max-width: 100%" />
+<img src="/img/projects/searchsci/searchsci-qualtrics-survey.png" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">Embedded Qualtrics survey</figcaption>
 </figure>
 
@@ -38,14 +38,14 @@ Before starting the experiment's tasks, users were asked to complete an entrance
 After completing the entrance survey, the user had to wait 24 hours to start on the three tasks. The system notified users by email (shown below) when they could begin.
 
 <figure class="my-4" style="text-align: center">
-<img src="/assets/images/projects/searchsci/searchsci-email.png" style="max-width: 100%" />
+<img src="/img/projects/searchsci/searchsci-email.png" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">Notification email</figcaption>
 </figure>
 
 The email linked to another landing page (shown below) with general instructions for the experiment. Each task screen was also preceded by a per-task instructions screen (not shown).
 
 <figure class="my-4" style="text-align: center">
-<img src="/assets/images/projects/searchsci/searchsci-part-2-instructions.png" style="max-width: 100%" />
+<img src="/img/projects/searchsci/searchsci-part-2-instructions.png" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">Instructions landing page</figcaption>
 </figure>
 
@@ -54,14 +54,14 @@ The email linked to another landing page (shown below) with general instructions
 The first task was search generation. Users were asked to enter search terms "regarding things you want to know about GMOs (genetically modified organisms)", as shown in the screenshot below. After entering five search terms, the user was allowed to proceed to the next screen.
 
 <figure class="my-4" style="text-align: center">
-<img src="/assets/images/projects/searchsci/searchsci-search-generation.png" style="max-width: 100%" />
+<img src="/img/projects/searchsci/searchsci-search-generation.png" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">Search generation task: entry</figcaption>
 </figure>
 
 The follow-up screen (below) prompted the user to reorder the search terms they entered from most to least important, and then confirm the order. Items in the list could be dragged and dropped to reorder them.
 
 <figure class="my-4" style="text-align: center">
-<img src="/assets/images/projects/searchsci/searchsci-search-generation-reorder.png" style="max-width: 100%" />
+<img src="/img/projects/searchsci/searchsci-search-generation-reorder.png" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">Search generation task: reordering</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ The follow-up screen (below) prompted the user to reorder the search terms they 
 The next task was search selection, shown in the screenshot below. The user was prompted to select from a list of "search terms that others have used to search for information about GMOs".
 
 <figure class="my-4" style="text-align: center">
-<img src="/assets/images/projects/searchsci/searchsci-search-selection.png" style="max-width: 100%" />
+<img src="/img/projects/searchsci/searchsci-search-selection.png" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">Search selection task: entry</figcaption>
 </figure>
 
@@ -81,14 +81,14 @@ After selecting five search terms and clicking a button to proceed, the user was
 Finally, the user was directed to the content task, which presented a list of simulated search results (below).
 
 <figure class="my-4" style="text-align: center">
-<img src="/assets/images/projects/searchsci/searchsci-content-results.png" style="max-width: 100%" />
+<img src="/img/projects/searchsci/searchsci-content-results.png" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">Content task: results</figcaption>
 </figure>
 
 In order to successfully complete the task, the user was asked to read at least three articles within a configured time period. Users could highlight passages of an article's text and add them to a notes box, as shown above.
 
 <figure class="my-4" style="text-align: center">
-<img src="/assets/images/projects/searchsci/searchsci-content-article.png" style="max-width: 100%" />
+<img src="/img/projects/searchsci/searchsci-content-article.png" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">Content task: article</figcaption>
 </figure>
 
