@@ -8,7 +8,7 @@ layout: page
 <br/>
 
 <!-- 4-sentence Kent Beck abstract -->
-[SNOMED CT's](https://www.snomed.org/) low-level data format presents a significant barrier to its adoption among the graph database community. We have developed a system to transform [SNOMED CT Release Format 2 (RF2)](https://confluence.ihtsdotools.org/display/DOCRELFMT/SNOMED+CT+Release+File+Specifications) data into [SKOS](https://www.w3.org/2004/02/skos/) and [SHACL](https://www.w3.org/TR/shacl/) for use in [W3C](https://w3.org/) standards-compliant tools such as [GraphDB](https://graphdb.ontotext.com/), [Stardog](https://www.stardog.com/), and [TopBraid EDG](https://www.topquadrant.com/). In contrast to the canonical [OWL](https://www.w3.org/OWL/) representation of SNOMED CT, our system produces far more instances than classes. The resulting [RDF](https://www.w3.org/RDF/) is more tractable to validate and easier to present users.
+[SNOMED CT's](https://www.snomed.org/) low-level [Release Format 2 (RF2)](https://confluence.ihtsdotools.org/display/DOCRELFMT/SNOMED+CT+Release+File+Specifications) presents a significant barrier to SNOMED CT adoption among the graph database community. We have developed a system to transform RF2 data into [SKOS](https://www.w3.org/2004/02/skos/) and [SHACL](https://www.w3.org/TR/shacl/) for use in [W3C](https://w3.org/) standards-compliant tools such as [GraphDB](https://graphdb.ontotext.com/), [Stardog](https://www.stardog.com/), and [TopBraid EDG](https://www.topquadrant.com/). In contrast to the canonical [OWL](https://www.w3.org/OWL/) representation of SNOMED CT, our system produces more instances than classes. The resulting idiomatic [RDF](https://www.w3.org/RDF/) is easy to validate and present to users.
 
 <br/>
 
@@ -17,7 +17,7 @@ layout: page
 
 <!-- Hodgson, R.; Polikoff, I. SNOMED-CT Expo 2020—SNOMED-CT-SHAPES: A Simpler Approach to Working with SNOMED in RDF. 2020. Available online: https://www.youtube.com/watch?v=mrlNn3oYH3k (accessed on 2 June 2023). -->
 
-SNOMED Clinical Terminology (SNOMED CT) is a comprehensive, multilingual clinical healthcare terminology maintained by SNOMED International, an international non-profit organization. SNOMED CT is widely used in electronic health records (EHRs) for consistent representation of clinical content.
+SNOMED Clinical Terminology (SNOMED CT) is a comprehensive, multilingual clinical healthcare terminology maintained by [SNOMED International](https://www.snomed.org/), a non-profit organization. SNOMED CT is widely used in electronic health records (EHRs) for consistent representation of clinical content.
 
 Recently there has been increasing demand for SNOMED CT in other contexts, such as [data governance](https://en.wikipedia.org/wiki/Data_governance). A number of these applications are underpinned by graph database technology, which is not directly compatible with the tabular format of SNOMED CT releases.
 
@@ -25,7 +25,7 @@ The Resource Description Framework (RDF) is a W3C-standard model for data interc
 
 In order for these systems to work with SNOMED CT, the terminology must be transformed from its bespoke tabular format into RDF and SHACL. The Simple Knowledge Organization System (SKOS) provides a standard way to represent knowledge organization systems such as SNOMED CT in RDF.
 
-We have developed an automatic process for transforming SNOMED CT releases into RDF and SHACL for downstream consumption by tools such as TopBraid EDG. In the following sections we will give a brief overview of the SNOMED CT data model, identify some of the challenges in transforming SNOMED CT into RDF and SHACL, and describe our transformation process in detail.
+We have developed an automatic process for transforming SNOMED CT releases into SKOS and SHACL for downstream consumption by tools such as TopBraid EDG. In the following sections we will give a brief overview of the SNOMED CT data model, identify some of the challenges in transforming SNOMED CT into RDF and SHACL, and describe our transformation process in detail.
 
 <br/>
 
@@ -35,7 +35,7 @@ SNOMED CT content is represented by three types of [*components*](https://conflu
 
 * *Concepts* that represent clinical meaning, are uniquely identified by number (the *SCTID*), and organized into a polyhierarchy
 * *Descriptions* that link concepts to appropriate human-readable terms
-* *Relationships* that link a concept to other related concepts
+* *Relationships* that link a concept to related concepts
 
 The figure below shows a representative SNOMED concept we will use for demonstration purposes. The same concept can be viewed in the [official SNOMED CT browser](https://browser.ihtsdotools.org/?perspective=full&conceptId1=53627009&edition=MAIN/2023-12-01&release=&languages=en).
 
@@ -44,11 +44,11 @@ The figure below shows a representative SNOMED concept we will use for demonstra
 <figcaption class="mt-2" style="font-size: small">SNOMED CT concept 53627009: Closed fracture of radius AND ulna (disorder)</figcaption>
 </figure>
 
-Concept 53627009 is described by the English-language term Closed fracture of radius AND ulna (disorder)". The "(disorder)" suffix in the description is a [semantic tag](https://confluence.ihtsdotools.org/display/DOCEG/Semantic+Tag) indicating the domain to which the concept belongs.
+Concept 53627009 is described by the English-language term "Closed fracture of radius AND ulna (disorder)". The "(disorder)" suffix in the description is a [semantic tag](https://confluence.ihtsdotools.org/display/DOCEG/Semantic+Tag) indicating the domain to which the concept belongs.
 
-Concept 53627009 is part of a hierarchy of other concepts linked by is-a (child->parent) relationships, indicated by blue arrows in the figure. A concept may also have *attribute* relationships (shown as red arrows) with other concepts or scalars as values. (SNOMED CT refers to the latter as Concrete Values). In the example, "Closed fracture of radius AND ulna (disorder)" has a "Finding site" attribute of "Bone structure of radius (body structure)", corresponding to concept 62413002. 
+Concept 53627009 is part of a hierarchy of other concepts linked by is-a (child -> parent) relationships, indicated by blue arrows in the figure. A concept may also have *attribute* relationships (shown as red arrows) with other concepts or scalars as values. (SNOMED CT refers to the latter as Concrete Values). In the example, "Closed fracture of radius AND ulna (disorder)" has a "Finding site" attribute of "Bone structure of radius (body structure)", corresponding to concept 62413002. 
 
-Concept-attribute relationships are further organized into *relationship groups*, which indexed per-concept from 0. The attribute relationship groups for concept 53627009 are shown in the figure as dotted boxes and in the official SNOMED CT browser as nested boxes.
+Concept-attribute relationships are further organized into *relationship groups*, indexed per-concept from 0. The attribute relationship groups for concept 53627009 are shown in the figure as dotted boxes and in the official SNOMED CT browser as nested boxes.
 
 Relationship types such as is-a and "Finding site" are considered concepts themselves, with their own hierarchy. For example, all attribute relationship types descend from the same root concept. This allows relationship types to reuse the same machinery afforded to other concepts, such as multilingual descriptions.
 
@@ -56,27 +56,33 @@ Relationship types such as is-a and "Finding site" are considered concepts thems
 
 ##### The transformation process
 
-Conceptually the relationships outlined in the preceding section can be represented as triples:
+Conceptually, the relationships outlined in the preceding section can be represented as triples:
 
 ```
-(Closed fracture of radius AND ulna (disorder), is-a, Fracture of radius AND ulna (disorder))
-(Closed fracture of radius AND ulna (disorder), Finding site, Bone structure of radius (body structure))
+("Closed fracture of radius AND ulna (disorder)", "is-a", "Fracture of radius AND ulna (disorder)")
+
+("Closed fracture of radius AND ulna (disorder)", "Finding site", "Bone structure of radius (body structure)")
 ```
 
-which naturally correspond to `(subject, predicate, object)` triples in the RDF graph data model. At a high level, transforming SNOMED CT to RDF is the process of transforming between two physical models, the SNOMED CT release format and an RDF encoding such as [Turtle](https://www.w3.org/TR/turtle/), that both correspond to a graph logical model.
+These triples intuitively correspond to `(subject, predicate, object)` triples in the RDF graph data model. Transforming SNOMED CT to RDF is the process of transforming between two physical models, the SNOMED CT release format and an RDF encoding such as [Turtle](https://www.w3.org/TR/turtle/), that both correspond to a graph logical model.
 
-The figure below illustrates the transformation process.
+The figure below illustrates the transformation process, with subsequent sections describing the steps in detail.
 
 <figure class="my-4" style="text-align: center">
 <img src="/img/projects/snomed-ct/snomed-ct-transformation-process.svg" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">SNOMED CT transformation process</figcaption>
 </figure>
 
-<br/>
-
 ###### Step 1: mapping SNOMED CT release files to Python data structures
 
-Tab-separated value (TSV) files are extracted from a SNOMED CT release .zip. The rows in different files are mapped directly to low-level data structures in Python, like the following `Rf2Concept` [Pydantic](https://pydantic.dev/) model corresponding to a row in the RF2 concepts file:
+Tab-separated value (TSV) files are extracted from a SNOMED CT release .zip. For example, the row corresponding to concept 53627009 is:
+
+```tsv
+id	effectiveTime	active	moduleId	definitionStatusId
+53627009	20020131	1	900000000000207008	900000000000073002
+```
+
+The rows in different files are mapped directly to low-level data structures in Python, like the following `Rf2Concept` [Pydantic](https://pydantic.dev/) model corresponding to a row in the RF2 concepts TSV file:
 
 ```py
 from pydantic import BaseModel, Field
@@ -99,7 +105,7 @@ class Rf2Concept(BaseModel):
 
 ###### Step 2: indexing low-level data structures into compact index data structures
 
-`Rf2Concept` and other `dataclass` instances from the previous step are mapped to index data structures in memory as needed. The index data structures are persisted to files in order to reuse them when the input RF2 files haven't changed.
+`Rf2Concept`, `Rf2Description`, and other row-level Pydantic models from the previous step are mapped in memory to index data structures, like the one shown below. The index data structures are persisted to files in order to reuse them when the input RF2 files haven't changed.
 
 ```py
 @dataclass(frozen=True)
@@ -121,7 +127,7 @@ class IndexedRelationship:
 
 ###### Step 3: starting from a leaf concept, recursively and lazily transform concepts to Python rdflib Graphs: one graph for SKOS instances, one for SHACL shapes.
 
-High-level interfaces  use the indices from the previous step to navigate the SNOMED CT polyhierarchy. For example, the children of a concept can be obtained from an index of SNOMED CT relationships in `(object, predicate, subject)` order in the abridged snippet below:
+The main transformation logic works concept-by-concept, using high-level interfaces over the indices built in the previous step to navigate the SNOMED CT polyhierarchy. For example, the children of a concept can be obtained from an index of SNOMED CT relationships in `(object, predicate, subject)` order in the abridged snippet below:
 
 ```py
 class LogicalConcept:
@@ -154,7 +160,7 @@ class LogicalConcept:
         )
 ```
 
-The main transformation logic works concept-by-concept. It uses high-level interfaces like the one above to determine how a SNOMED CT concept should be transformed to RDF triples. The latter process is delegated to more specific [builder](https://en.wikipedia.org/wiki/Builder_pattern) classes, which add triples to an rdflib `Graph`.
+The transformation logic determines how a SNOMED CT concept should be transformed to RDF triples. The latter process is delegated to more specific [builder](https://en.wikipedia.org/wiki/Builder_pattern) classes, which add triples to an [rdflib](https://rdflib.readthedocs.io/) `Graph`.
 
 The table below summarizes the mappings:
 
@@ -184,11 +190,11 @@ The table below summarizes the mappings:
         </tr>
         <tr>
             <td>Concept not corresponding to attribute relationship types</td>
-            <td>SKOS <code>Concept</code>, SHACL <code>NodeShape</code></td>
+            <td>SKOS <code>Concept</code></td>
         </tr>
         <tr>
             <td>Attribute relationship group</td>
-            <td>SHACL <code>NodeShape</code></td>
+            <td>Bespoke resource, SHACL <code>NodeShape</code></td>
         </tr>
     </tbody>
 </table>
@@ -197,15 +203,15 @@ A single SNOMED CT concept may have multiple mappings into RDF. For example, the
 
 SNOMED CT descriptions (human-readable terms) of a concept are mapped to RDF Schema `label`, SKOS `prefLabel`, SKOS `altLabel`, or SHACL `name` statements depending on the type of the description (definition, name, synonym), its acceptability (acceptable, preferred, unacceptable), and the mapping(s) of the concept from the table above.
 
-Transforming attribute relationship groups presents a challenge. In principle, any SNOMED CT concept can have any number of attributes, arbitrarily grouped. Mapping every concept-relationship group combination to a SHACL `NodeShape` leads to a combinatorial explosion (the number of concepts multiplied by the number of relationship groups per concept). Few SHACL processors are prepared to deal with hundreds of thousands of `NodeShape`s. Fortunately, in practice many concepts have the same attribute (types) aligned with the same relationship group numbers, so there can be fewer relationship group `NodeShape` than there are relationship group instances.
+Transforming attribute relationship groups presents a challenge. In principle, any SNOMED CT concept can have any number of attributes, arbitrarily grouped. Mapping every concept-relationship group combination to a SHACL `NodeShape` leads to a combinatorial explosion (the number of concepts multiplied by the number of relationship groups per concept). Few SHACL processors are prepared to deal with hundreds of thousands of `NodeShape`s. Fortunately, in practice many concepts have the same attribute (types) , so there can be fewer relationship group `NodeShape`s than there are relationship group instances.
 
 <br/>
 
-##### Step 4: serialize the rdflib Graphs to files in Turtle syntax.
+###### Step 4: serialize the rdflib Graphs to files in Turtle syntax.
 
 Finally, the resulting RDF triples are serialized to two different files:
 
-1. A schemas file that contains RDF Schema `Class`es and `Property`s as well as SHACL `Shape`s
-2. An instances file that contains SKOS `Concept`s
+1. A schemas file that contains RDF Schema `Class`es and `Property`s as well as SHACL shapes
+2. An instances file that contains SKOS `Concept`s and associated relationship group triples
 
 Although both files contain RDF in Turtle syntax, and could be combined, most downstream tools expect RDF schemas/ontologies to be loaded separately from instance data.
