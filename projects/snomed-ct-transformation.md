@@ -40,7 +40,7 @@ SNOMED CT content is represented by three types of [*components*](https://conflu
 The figure below shows a representative SNOMED concept we will use for demonstration purposes. The same concept can be viewed in the [official SNOMED CT browser](https://browser.ihtsdotools.org/?perspective=full&conceptId1=53627009&edition=MAIN/2023-12-01&release=&languages=en).
 
 <figure class="my-4" style="text-align: center">
-<img src="/img/projects/snomed-ct/snomed-ct-53627009.svg" style="max-width: 100%" />
+<img src="/img/projects/snomed-ct-transformation/snomed-ct-53627009.svg" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">SNOMED CT concept 53627009: Closed fracture of radius AND ulna (disorder)</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ These triples intuitively correspond to `(subject, predicate, object)` triples i
 The figure below illustrates the transformation process, with subsequent sections describing the steps in detail.
 
 <figure class="my-4" style="text-align: center">
-<img src="/img/projects/snomed-ct/snomed-ct-transformation-process.svg" style="max-width: 100%" />
+<img src="/img/projects/snomed-ct-transformation/snomed-ct-transformation-process.svg" style="max-width: 100%" />
 <figcaption class="mt-2" style="font-size: small">SNOMED CT transformation process</figcaption>
 </figure>
 
