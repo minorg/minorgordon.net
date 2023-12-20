@@ -21,12 +21,18 @@ title: Projects
                         title="DressDiscover"
                     %}
                     {% include project-card.html
+                    class="me-4"
                     href="https://paradicms.github.io"
                     img_src="/img/projects/paradicms.png"
                     subtitle="Linked Data-powered Collections Management System for archives, libraries, museums, and individuals"
                     title="Paradicms"
                     %}
-                </div>
+                    {% include project-card.html
+                        href="/projects/snomed-ct.html"
+                        img_src="/img/projects/snomed-ct/snomed-ct-53627009.svg"
+                        title="Transforming SNOMED CT into SKOS and SHACL"
+                        %}
+                    </div>
                 <div class="row mt-4">
                     <h4 class="text-center"><u>Inactive</u></h4>
                     {% include project-card.html
