@@ -15,7 +15,7 @@ I developed a small experiment to evaluate several common compression methods ([
 - [MeSH](https://www.ncbi.nlm.nih.gov/mesh/)
 - [UNESCO Thesaurus](https://vocabularies.unesco.org/browser/thesaurus/en/)
 
-I measured the size of the uncompressed N-Triples file, the size of the N-Triples converted to [Turtle](https://www.w3.org/TR/turtle/) with common namespace prefixes, and the size of both encodings compressed using the above-mentioned methods. I tracked the time each method took to run on my laptop, and calculated compression ratios and space savings.
+I measured the size of the uncompressed N-Triples file, the size of the N-Triples converted to [Turtle](https://www.w3.org/TR/turtle/) with common namespace prefixes, and the size of both encodings compressed using the above-mentioned methods. I tracked the time each method took to run on my laptop and calculated compression ratios and space savings. In order to make the comparison fair, I used stock, single-process command line implementations of the compression methods rather than parallel implementations such as pbzip2. There is no parallel command-line implementation of Brotli at the time of this writing.
 
 The code for the experiment and the raw results are available in [this GitHub repository](https://github.com/minorg/rdf-text-compression-experiment).
 
