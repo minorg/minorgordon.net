@@ -14,10 +14,48 @@ title: Projects
                 <div class="row mb-4 mt-4">
                     <h4 class="text-center"><u>Active</u></h4>
                     {% include project-card.html
+                        class="me-4"
+                        href="https://annotize.ai/"
+                        img_src="/img/projects/annotize.png"
+                        subtitle="Analyze content using terms from your industry"
+                        title="Annotize"
+                    %}
+                    {% include project-card.html
+                        class="me-4"
+                        href="https://kos-kit.github.io/"
+                        img_src="/img/projects/kos-kit.png"
+                        subtitle="A toolkit for working with Knowledge Organization Systems (KOSs) such as the UNESCO Thesaurus, the HASSET Thesaurus, and other systems defined in SKOS."
+                        title="KOS Kit"
+                    %}
+                    {% include project-card.html
+                        class="me-4"
+                        href="https://github.com/graphs2go"
+                        img_src="/img/projects/snomed-ct-transformation/snomed-ct-53627009.svg"
+                        subtitle="Transform data from a variety of sources into knowledge graphs in Cypher and RDF"
+                        title="Graphs2go"
+                    %}
+                    {% include project-card.html
                         href="https://diveintoschema.org"
                         img_src="/img/projects/diveintoschema.org.png"
                         subtitle="Exploring uses of schema.org types across the web"
                         title="Dive Into Schema.org"
+                    %}
+                </div>
+                <div class="row mt-4">
+                    <h4 class="text-center"><u>Inactive</u></h4>
+                    {% include project-card.html
+                        class="me-4"
+                        href="/projects/searchsci.html"
+                        img_src="/img/projects/searchsci/searchsci-landing.png"
+                        subtitle="A web-based research experiment investigating the effects of cognitive bias on our consumption of information online"
+                        title="SearchSci"
+                    %}
+                    {% include project-card.html
+                        class="me-4"
+                        href="https://github.com/minorg/twks"
+                        img_src="/img/projects/twks.png"
+                        subtitle="A provenance-aware RDF store"
+                        title="Tetherless World Knowledge Store"
                     %}
                     {% include project-card.html
                         class="me-4"
@@ -27,32 +65,10 @@ title: Projects
                         title="DressDiscover"
                     %}
                     {% include project-card.html
-                    class="me-4"
-                    href="https://paradicms.github.io"
-                    img_src="/img/projects/paradicms.png"
-                    subtitle="Linked Data-powered Collections Management System for archives, libraries, museums, and individuals"
-                    title="Paradicms"
-                    %}
-                    {% include project-card.html
-                        href="/projects/snomed-ct-transformation.html"
-                        img_src="/img/projects/snomed-ct-transformation/snomed-ct-53627009.svg"
-                        title="Transforming SNOMED CT into SKOS and SHACL"
-                    %}
-                </div>
-                <div class="row mt-4">
-                    <h4 class="text-center"><u>Inactive</u></h4>
-                    {% include project-card.html
-                    class="me-4"
-                    href="/projects/searchsci.html"
-                    img_src="/img/projects/searchsci/searchsci-landing.png"
-                    subtitle="A web-based research experiment investigating the effects of cognitive bias on our consumption of information online"
-                    title="SearchSci"
-                    %}
-                    {% include project-card.html
-                    href="https://github.com/minorg/twks"
-                    img_src="/img/projects/twks.png"
-                    subtitle="A provenance-aware RDF store"
-                    title="Tetherless World Knowledge Store"
+                        href="https://paradicms.github.io"
+                        img_src="/img/projects/paradicms.png"
+                        subtitle="Linked Data-powered Collections Management System for archives, libraries, museums, and individuals"
+                        title="Paradicms"
                     %}
                 </div>
             </div>
