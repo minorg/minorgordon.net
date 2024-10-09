@@ -1,6 +1,6 @@
 ---
 categories: [projects]
-date: 2024-06-21
+date: 2024-10-09
 description: With examples
 layout: post
 title: "SPARQL CONSTRUCT queries over RDF lists"
