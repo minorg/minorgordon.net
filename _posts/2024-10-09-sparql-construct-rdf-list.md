@@ -1,5 +1,5 @@
 ---
-categories: [projects]
+categories: [technical]
 date: 2024-10-09
 description: With examples
 layout: post

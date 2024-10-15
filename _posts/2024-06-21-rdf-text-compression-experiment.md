@@ -1,5 +1,5 @@
 ---
-categories: [projects]
+categories: [technical]
 date: 2024-06-21
 description: Summary of the experiment and key results
 layout: post
