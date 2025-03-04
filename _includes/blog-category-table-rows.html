@@ -1,0 +1,13 @@
+<!-- Category: {{ include.category }} -->
+{% if include.category != "" %}
+<tr id="{{ include.category }}">
+    <td class="text-center" colspan="3">
+        <b>{{ include.categoryLabel }}</b>
+    </td>
+</tr>
+{% endif %}
+{% for post in site.posts %}
+{% if post.categories contains include.category or include.category == "" and post.categories.size == 0 %}
+{% include blog-category-table-row.html date=post.date description=post.description title=post.title url=post.url %}
+{% endif %}
+{% endfor %}
