@@ -8,5 +8,11 @@ title:  "Exemplars"
 
 <exemplar definition>
 
+My basic approach to almost any problem is to look for exemplars I can imitate, adapt, direct, reuse, ...
+
+Learned this early, from my father. Look for people who are doing the right thing.
+
+Take the same approach to software: look for the best examples. Data 
+
 In this context I mean the best example that lends itself to practical adaptation, direct reuse, extension, or imitation.
 It’s more specific than the general definition of exemplar. The Mozart operas are exemplars of the form but it’s not practical for people with less talent to imitate them.
