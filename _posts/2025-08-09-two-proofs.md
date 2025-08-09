@@ -1,5 +1,5 @@
 ---
-categories: [reading]
+categories: [learning]
 date: 2025-08-09
 description: Passage about Andrey Kolmogorov
 layout: post
