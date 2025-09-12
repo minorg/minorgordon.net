@@ -23,6 +23,7 @@ title: Minor Gordon
 url: "https://minorgordon.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+future: true
 include: ["_pages"]
 highlighter: rouge
 markdown: kramdown
