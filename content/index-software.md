@@ -6,13 +6,14 @@ alt = "Screenshot of DressDiscover"
 src = "img/dressdiscover.png"
 +++
 
-Current projects
+**Current projects**
 
+* [rdfx](https://github.com/minorg/rdfx): TypeScript libraries for working with RDF
 * [SHACLmate](https://github.com/minorg/shaclmate): generate TypeScript from [SHACL](https://www.w3.org/TR/shacl/) shapes
 
 <div>&nbsp;</div>
 
-Past projects
+**Past projects**
 
 * [Dive Into Schema.org](https://minorg.github.io/diveintoschema.org/): exploring uses of schema.org types across the web
 * [DressDiscover](https://www.ardenkirkland.com/work/portfolio/dressdiscover/): visual workflow for cataloging cultural heritage objects
