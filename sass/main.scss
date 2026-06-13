@@ -6,14 +6,6 @@ $gap: clamp(2rem, 6vw, 5rem);
 a { color: inherit; }
 
 article {
-  figure {
-    margin-bottom: 1rem;
-    margin-top: 1rem;
-
-    figcaption { text-align: center; font-size: 0.875rem; color: #888; margin-top: 0.5rem; }  
-    img { max-width: 100%; display: block; }
-  }
-
   h1 { font-size: 2rem; }
   h2 { margin-top: 1.5rem; font-size: 1.5rem; }
   h3 { margin-top: 1.5rem; }
@@ -26,6 +18,14 @@ body {
   max-width: $max-width;
   margin: 0 auto;
   padding: 0 1.5rem;
+}
+
+figure {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+
+  figcaption { text-align: center; font-size: 0.875rem; color: #888; margin-top: 0.5rem; }  
+  img { max-width: 100%; display: block; }
 }
 
 footer {
@@ -56,6 +56,10 @@ header {
 section {
   padding: 5rem 0;
   & + section { border-top: 1px solid #ddd; }
+
+  h2 {
+    margin-bottom: 1rem;
+  }
 }
 
 .two-col {
@@ -66,9 +70,7 @@ section {
 
   @media (max-width: 700px) { grid-template-columns: 1fr; }
 
-  img { display: block; max-height: 400px; height: auto; }
-
-  // h4 { margin: 1.5rem 0 0.5rem; }
+  img { display: block; max-height: 400px; }
 }
 
 .two-col--flip > :first-child { order: 2; }

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article>
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.content | safe }}</p>
+
+  {% for row in page.extra.rows %}
+  <section class="two-col {% if row.flip %}two-col--flip{% endif %}">
+    <p>{{ row.text }}</p>
+    <img src="{{ row.img }}" alt="{{ row.alt }}" />
+  </section>
+  {% endfor %}
+</article>
+{% endblock %}

@@ -6,4 +6,4 @@ alt = "Painting of broken tulip by Pierre-Joseph Redouté"
 src = "img/tulip.png"
 +++
 
-About section.
+* [The name "Minor"](/the-name-minor)
