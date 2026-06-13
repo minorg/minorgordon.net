@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ config.title }}</title>
+  <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
+</head>
+<body>
+  <header>
+    <a class="site-title" href="/">{{ config.extra.author }}</a>
+    <nav>
+      <a href="/#about">About</a>
+      <a href="/#software">Software</a>
+      <a href="/#writing">Writing</a>
+    </nav>
+  </header>
+
+  <main>{% block content %}{% endblock %}</main>
+
+  <footer>
+    <p>© {{ now() | date(format="%Y") }} {{ config.extra.author }}</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+ 
+{% block content %}
+ 
+{% set about    = get_page(path="index-about.md") %}
+{% set software = get_page(path="index-software.md") %}
+{% set writing  = get_page(path="index-writing.md") %}
+ 
+<section id="about">
+  <div class="two-col">
+    <div>
+      {{ about.content | safe }}
+    </div>
+    <img src="{{ get_url(path=about.extra.img.src) }}" alt="{{ about.extra.img.alt }}" />
+  </div>
+</section>
+ 
+<section id="software">
+  <div class="two-col two-col--flip">
+    <div>
+      <h2>{{ software.title }}</h2>
+      {{ software.content | safe }}
+    </div>
+    <img src="{{ get_url(path=software.extra.img.src) }}" alt="{{ software.extra.img.alt }}" />
+  </div>
+</section>
+ 
+<section id="writing">
+  <div class="two-col">
+    <div>
+      <h2>{{ writing.title }}</h2>
+      {{ writing.content | safe }}
+    </div>
+    <img src="{{ get_url(path=writing.extra.img.src) }}" alt="{{ writing.extra.img.alt }}" />
+  </div>
+</section>
+ 
+{% endblock %}
+ 
