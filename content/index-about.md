@@ -6,4 +6,6 @@ alt = "Photo of Minor Gordon"
 src = "img/mg4-square.png"
 +++
 
-About section.
+* Software developer
+* Avid reader
+* Flower arranger
