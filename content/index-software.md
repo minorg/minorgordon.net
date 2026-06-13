@@ -2,8 +2,8 @@
 title = "Software"
 
 [extra.img]
-alt = "Photo suggesting software"
-src = "img/software.jpg"
+alt = "Screenshot of DressDiscover"
+src = "img/dressdiscover.png"
 +++
 
 About section.

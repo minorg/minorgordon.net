@@ -1,4 +1,4 @@
-$max-width: 1100px;
+$max-width: 1440px;
 $gap: clamp(2rem, 6vw, 5rem);
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -37,8 +37,6 @@ header {
   }
 }
 
-img { display: block; max-width: 100%; height: auto; }
-
 section {
   padding: 5rem 0;
   & + section { border-top: 1px solid #ddd; }
@@ -51,6 +49,8 @@ section {
   align-items: center;
 
   @media (max-width: 700px) { grid-template-columns: 1fr; }
+
+  img { display: block; max-height: 400px; height: auto; }
 }
 
 .two-col--flip > :first-child { order: 2; }

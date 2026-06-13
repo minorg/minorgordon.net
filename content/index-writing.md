@@ -2,8 +2,8 @@
 title = "Writing"
 
 [extra.img]
-alt = "Photo suggesting writing"
-src = "img/writing.jpg"
+alt = "Painting of broken tulip by Pierre-Joseph Redouté"
+src = "img/tulip.png"
 +++
 
 About section.
