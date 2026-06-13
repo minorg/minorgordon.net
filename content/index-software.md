@@ -23,3 +23,4 @@ src = "img/dressdiscover.png"
 * [SearchSci](/software/searchsci): a web-based research experiment investigating the effects of cognitive bias on our consumption of information online
 * [TWKS](https://github.com/minorg/twks): provenance-aware knowledge store
 * [Towndex](https://towndex.github.io/): synthesize knowledge graphs from local government documents and generate static websites
+* Yield: high-performance web server in C++; the focus of my [graduate research](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-781.pdf)
