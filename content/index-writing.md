@@ -7,6 +7,7 @@ src = "img/tulip.png"
 +++
 
 **Essays**
+* [The name "Minor"](/the-name-minor)
 * [The Illusion of Inevitability](https://brainmindsociety.org/posts/o44ee5gj7y4ay6jlpslpsjjt40l4zx)
 * [Personal Computing as Personal Empowerment](https://brainmindsociety.org/posts/arya64u77ngbxplcjm33htzv3nhilp)
 

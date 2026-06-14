@@ -4,8 +4,6 @@ title = "The History of Computing in 50 Books"
 
 The history of computing is one of my favorite subjects, and I've been reading about it almost as long as I've been using computers. I recently put together a list of 50 of the best books I've read on the subject, to accompany a talk ([slides](/hc50b.pdf)) I gave at [my local library](https://www.brunswicklibrary.org).
 
-<br/>
-
 | Author(s) | Title |
 | --- | --- |
 | Keith Houston | [_Empire of the Sum: The Rise and Reign of the Pocket Calculator_](https://catalog.uhls.org/iii/encore/record/C__Rb1999193__Sempire%20of%20the%20sum__Orightresult__U__X7?lang=eng&suite=gold) |
