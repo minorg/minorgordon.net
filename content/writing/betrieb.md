@@ -1,0 +1,27 @@
++++
+title = "Betrieb"
++++
+
+> They divided the subject on which they were working into unnumerable small parts and then let each part be handled by a student. The student's task under these circumstances was relatively easy, and was dealt with in great detail so as to create an impression of being important. In this way there arose what was known in Germany as the 'Betrieb' (mill), where to all outward appearances no distinction is made between worthwhile ideas and trivialities. Everything produced was a 'contribution to the literature,' which had to be cited by every other subsequent writer if he wanted to be 'scientific'. An agreeable feeling of activity surrounded both teacher and students. They became so engrossed in this activity and industry that the larger problem that the partial studies were supposed to elucidate was often forgotten. The production of dissertations and papers became an end in itself.
+
+(Philipp Frank, _Einstein: His Life and Times_)
+
+Like many people I started my career with a surplus of time and energy and poor judgment about how to spend them. I put considerable effort into solving problems that weren't worth it. With age and experience I've learned to be more conscientious about what I focus on. I ask questions like:
+
+**Why does the problem exist?** I try to avoid [pseudo-work](https://en.wikipedia.org/wiki/Bullshit_job), [bikeshedding](https://en.wikipedia.org/wiki/Law_of_triviality), and other problems that arise from organizational dysfunction rather than client/customer/user needs.
+
+**Are the requirements for a [minimum viable solution](https://en.wikipedia.org/wiki/Minimum_viable_product) clear and validated?** Beware of [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and unvalidated requirements.  It's tempting to extrapolate from your own experience and assume other people share your perspectives and priorities. People can usually give you a reliable enough account what they've done in the past and what they don't like about existing solutions to some problem. People rarely have precise ideas about what they do want. The few who have specific, positive ideas often struggle to articulate them. And you still have to a validate that people actually want what they say they want. This is the essence of [user research](https://en.wikipedia.org/wiki/User_Research).
+
+**Are the constraints on a solution essential?** You can waste a lot of time and energy -- days, months, even years or decades -- on constraints that aren't [essential](https://en.wikipedia.org/wiki/Essential_complexity) to the problem, like poor tool choices.
+
+**Can someone with less knowledge/skill/talent than me solve this problem?** I strongly prefer to focus on problems that strike a balance between "the challenge of the task and the skill of the performer".
+
+**Will someone else solve the problem soon enough if I don't?**. There are many problems worth solving that simply aren't extrinsically rewarding enough to entice people into working on them. I often gravitate toward these problems in my (unpaid) personal projects.
+
+**Can I solve this problem significantly better than other people have solved it?** Many existing solutions can be improved upon with the benefit of hindsight. You can often eliminate some of the mistakes, warts, and compromises that inevitably accumulate when a solution evolves incrementally. The important question is: how much improvement can you make? People will complain about the status quo but only dramatic improvements are likely to induce people to switch from a mature solution. Anything less than dramatic improvement is rarely worth the effort.
+
+If there are no existing solutions to the problem, ask yourself why. [Blue oceans](https://en.wikipedia.org/wiki/Blue_Ocean_Strategy) do exist, but they are rare. More often a dearth of solutions is a hint that a problem is not worth solving.
+
+**What is the near-term outlook?** It's tempting to squint at a project and imagine vast potential. You may also have a tendency to discount present realities in favor of future possibilities. Intrinsic motivation and a vision of the future can sustain you through slogging and tedium in the near-term, but not indefinitely.  At some point you'll need extrinsic rewards to keep going. I ask myself: what is the work likely to be three months from now? Six months? One year? If the answer is "slogging and more slogging", as it often is, I look for alternatives.
+
+**Are there other problems I should prioritize over this problem?** Considering [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), [urgency vs. importance](https://en.wikipedia.org/wiki/Time_management#Eisenhower_method), Return on Investment (ROI), and other criteria.
