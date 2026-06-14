@@ -3,20 +3,20 @@ title = 'The name "Minor"'
 template = "the-name-minor.html"
 
 [[extra.rows]]
-text = "My father, Dr. Minor W. Gordon, was a clinical psychologist in Claremore, Oklahoma, where I grew up."
+text = "My father, [Dr. Minor W. Gordon](/mg3-eulogy), was a clinical psychologist in Claremore, Oklahoma, where I grew up."
 img  = "/img/the-name-minor/mg3.jpg"
 alt  = "Dr. Minor W. Gordon"
 flip = false
 
 [[extra.rows]]
-text = "My grandfather, Dr. Minor E. Gordon, was a medical doctor in Claremore."
+text = "My grandfather, [Dr. Minor E. Gordon](/mg2-eulogy), was a medical doctor in Claremore."
 img  = "/img/the-name-minor/mg2.jpg"
 alt  = "Dr. Minor E. Gordon"
 flip = true
 
 [[extra.rows]]
 text = """
-As was his father, Dr. Minor H. Gordon.
+As was his father, [Dr. Minor H. Gordon](https://exploreclaremorehistory.wordpress.com/2023/11/11/remembering-dr-minor-h-gordon/).
 
 "Minor" was originally a last name among my father's ancestors, then became a middle name after a marriage. (It's common practice in the U.S. for women to adopt their original/maiden last name as a middle name when they get married.)
 
