@@ -1,5 +1,5 @@
 +++
-title = "Minor Gordon"
+template = "section-page.html"
 
 [extra.img]
 alt = "Photo of Minor Gordon"

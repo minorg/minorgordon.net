@@ -4,9 +4,14 @@
   
 <section class="two-col">
   <div>
-    {{ page.content | safe }}
+    {% if section.title %}
+    <h1>{{ section.title }}</h1>
+    {% endif %}
+    <div>
+    {{ section.content | safe }}
+    </div>
   </div>
-  <img src="{{ get_url(path=page.extra.img.src) }}" alt="{{ page.extra.img.alt }}" />
+  <img src="{{ get_url(path=section.extra.img.src) }}" alt="{{ section.extra.img.alt }}" />
 </section>
  
 {% endblock %}
