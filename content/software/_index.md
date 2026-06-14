@@ -4,7 +4,7 @@ title = "Software"
 
 [extra.img]
 alt = "Screenshot of DressDiscover"
-src = "img/dressdiscover.png"
+src = "img/software/dressdiscover.png"
 +++
 
 **Current projects**

@@ -3,8 +3,8 @@ template = "section-page.html"
 title = "Reading"
 
 [extra.img]
-alt = "Painting of broken tulip by Pierre-Joseph Redouté"
-src = "img/tulip.png"
+alt = "Photograph of pink dogwood tree"
+src = "img/reading/pink-dogwood.png"
 +++
 
 * [Favorite books](/reading/favorite-books)

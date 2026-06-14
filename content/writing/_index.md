@@ -3,8 +3,8 @@ template = "section-page.html"
 title = "Writing"
 
 [extra.img]
-alt = "Painting of broken tulip by Pierre-Joseph Redouté"
-src = "img/tulip.png"
+alt = "Photograph from ikebana workshop"
+src = "img/writing/ikebana-workshop.png"
 +++
 
 * [The name "Minor"](/the-name-minor)
