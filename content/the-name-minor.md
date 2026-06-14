@@ -18,13 +18,7 @@ flip = true
 text = """
 As was his father, [Dr. Minor H. Gordon](https://exploreclaremorehistory.wordpress.com/2023/11/11/remembering-dr-minor-h-gordon/).
 
-"Minor" was originally a last name among my father's ancestors, then became a middle name after a marriage. (It's common practice in the U.S. for women to adopt their original/maiden last name as a middle name when they get married.)
-
-I don't know where the last name originated.
-
-Outside my family I've never met anyone with the first name "Minor". Apparently "Mynor" (with a y) is a relatively common first name in Guatamala; I learned that when I met a Guatamalan mechanic named Mynor in New Jersey.
-
-I only know of one other "Minor" from the past: one of my favorite photographers, [Minor White](https://en.wikipedia.org/wiki/Minor_White). According to Wikipedia, "his first name was the same as his paternal great, great-grandfather."
+"Minor" was originally a last name among my father's ancestors, then became a middle name after a marriage. It's common practice in the U.S. for women to adopt their original/maiden last name as a middle name when they get married.
 """
 
 img  = "/img/the-name-minor/mg1.jpg"
