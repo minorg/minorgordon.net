@@ -1,4 +1,5 @@
 +++
+template = "section-page.html"
 title = "Software"
 
 [extra.img]
