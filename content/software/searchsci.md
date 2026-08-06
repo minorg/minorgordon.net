@@ -2,7 +2,14 @@
 title = "SearchSci"
 +++
 
-{{ figure(src="/img/software/searchsci/searchsci-landing.png", alt="SearchSci landing page") }}
+{% component figure(src, alt) %}
+<figure>
+  <img src="{{ src }}" alt="{{ alt }}" />
+  <figcaption>{{ alt }}</figcaption>
+</figure>
+{% endcomponent figure %}
+
+{{<figure src="/img/software/searchsci/searchsci-landing.png" alt="SearchSci landing page" />}}
 
 SearchSci was a web-based research experiment investigating the effects of cognitive bias on our consumption of information online.
 
@@ -22,33 +29,33 @@ Experiment subjects were recruited on social media as well as from Mechanical Tu
 
 Before starting the experiment's tasks, users were asked to complete an entrance survey in Qualtrics (shown below). The survey was embedded in an `iframe` in order to maintain a consistent look and feel throughout the experiment.
 
-{{ figure(src="/img/software/searchsci/searchsci-qualtrics-survey.png", alt="Embedded Qualtrics survey") }}
+{{<figure src="/img/software/searchsci/searchsci-qualtrics-survey.png" alt="Embedded Qualtrics survey" />}}
 
 ### Starting the experiment
 
 After completing the entrance survey, the user had to wait 24 hours to start on the three tasks. The system notified users by email when they could begin.
 
-{{ figure(src="/img/software/searchsci/searchsci-email.png", alt="Notification email") }}
+{{<figure src="/img/software/searchsci/searchsci-email.png" alt="Notification email" />}}
 
 The email linked to another landing page with general instructions for the experiment. Each task screen was also preceded by a per-task instructions screen.
 
-{{ figure(src="/img/software/searchsci/searchsci-part-2-instructions.png", alt="Instructions landing page") }}
+{{<figure src="/img/software/searchsci/searchsci-part-2-instructions.png" alt="Instructions landing page" />}}
 
 ### Search generation
 
 The first task was search generation. Users were asked to enter search terms "regarding things you want to know about GMOs (genetically modified organisms)". After entering five search terms, the user was allowed to proceed to the next screen.
 
-{{ figure(src="/img/software/searchsci/searchsci-search-generation.png", alt="Search generation task: entry") }}
+{{<figure src="/img/software/searchsci/searchsci-search-generation.png" alt="Search generation task: entry" />}}
 
 The follow-up screen prompted the user to reorder the search terms they entered from most to least important, and then confirm the order. Items in the list could be dragged and dropped to reorder them.
 
-{{ figure(src="/img/software/searchsci/searchsci-search-generation-reorder.png", alt="Search generation task: reordering") }}
+{{<figure src="/img/software/searchsci/searchsci-search-generation-reorder.png" alt="Search generation task: reordering" />}}
 
 ### Search selection
 
 The next task was search selection. The user was prompted to select from a list of "search terms that others have used to search for information about GMOs".
 
-{{ figure(src="/img/software/searchsci/searchsci-search-selection.png", alt="Search selection task: entry") }}
+{{<figure src="/img/software/searchsci/searchsci-search-selection.png" alt="Search selection task: entry" />}}
 
 After selecting five search terms and clicking a button to proceed, the user was then asked to reorder the selected terms using the same mechanism as before.
 
@@ -56,11 +63,11 @@ After selecting five search terms and clicking a button to proceed, the user was
 
 Finally, the user was directed to the content task, which presented a list of simulated search results.
 
-{{ figure(src="/img/software/searchsci/searchsci-content-results.png", alt="Content task: results") }}
+{{<figure src="/img/software/searchsci/searchsci-content-results.png" alt="Content task: results" />}}
 
 In order to successfully complete the task, the user was asked to read at least three articles within a configured time period. Users could highlight passages of an article's text and add them to a notes box.
 
-{{ figure(src="/img/software/searchsci/searchsci-content-article.png", alt="Content task: article") }}
+{{<figure src="/img/software/searchsci/searchsci-content-article.png" alt="Content task: article" />}}
 
 When the preallocated time for completing the content task expired, a modal dialog indicated that the session was complete, and the user was directed to a page thanking them for participating in the experiment. Users who successfully completed all tasks were directed to an exit survey in Qualtrics.
 
